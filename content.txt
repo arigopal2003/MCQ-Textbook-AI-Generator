@@ -1,0 +1,3475 @@
+
+
+--- Tamilnadu-Board-Class-10-Science-Textbook-Chapter-1 ---
+
+1
+INTRODUCTION
+Human beings are so curious about things 
+around them. Things around us are related to 
+one another. Some bodies are at rest and some 
+are in motion. Rest and motion are interrelated 
+terms.
+In the previous classes you have learnt 
+about various types of motion such as linear 
+motion, circular motion, oscillatory motion, 
+and so on. So far, you have discussed the motion 
+of bodies in terms of their displacement, 
+velocity, and acceleration. In this unit, let us 
+investigate the cause of motion. 
+When a body is at rest, starts moving, a 
+question that arises in our mind is ‘what causes 
+the body to move?’ Similarly, when a moving 
+object comes to rest, you would like to know 
+what brings it to rest? If a moving object speeds 
+up or slows down or changes its  direction. 
+what speeds up or slows down the body? What 
+changes the direction of motion?
+One answer for all the above questions 
+is ‘Force’. In a common man’s understanding 
+of motion, a body needs a ‘push’ or ‘pull’ to 
+move, or bring to rest or change its velocity. 
+Hence, this ‘push’ or ‘pull’ is called as ‘force’.
+Let us define force in a more scientific 
+manner using the three laws proposed by 
+Sir Isaac Newton. These laws help you to 
+understand the motion of a body and also to 
+predict the future course of its motion, if you 
+know the forces acting on it. Before Newton 
+formulated his three laws of motion, a different 
+perception about the force and motion of 
+bodies prevailed. Let us first look at these ideas 
+and then eventually learn about Newton’s laws 
+in this unit. 
+Learning Objectives
+At the end of this lesson students will be able to:
+ Understand the concepts of force and motion.
+ Explain inertia and its types.
+ State the three laws of Newton.
+ Apply Newtonian concept of force and motion.
+ Define force, momentum and impulse.
+ Distinguish between mass and weight
+ Analyze weightlessness and the principle of conservation of momentum.
+ Explain the law of gravitation and its applications.
+ Understand the variations in 'g' due to height and depth.
+ Solve numerical problems related to force and motion
+1
+LAWS OF MOTION
+10th_Science_Unit-1.indd   1
+21-02-2019   18:32:40
+
+2
+10th Standard Science
+Mechanics is the branch of physics that deals with 
+the eff ect of force on bodies. It is divided into two 
+branches, namely, statics and dynamics.
+Statics: It deals with the bodies, which are at 
+rest under the action of forces.  
+Dynamics: It is the study of moving bodies 
+under the action of forces. Dynamics is further 
+divided as follows.
+Kinematics: It deals with the motion of bodies 
+without considering the cause of motion.
+Kinetics: It deals with the motion of bodies 
+considering the cause of motion.
+ 1.1  FORCE AND MOTION
+According to Aristotle a Greek Philosopher 
+and Scientist, the natural state of earthly 
+bodies is ‘rest’. He stated that a moving 
+body naturally comes to rest  without  any 
+external infl uence of the force. Such motions 
+are 
+termed 
+as 
+‘natural motion’ (Force 
+independent). He also proposed that a force 
+(a push or a pull) is needed to make the bodies to 
+move from their natural state (rest) and behave 
+contrary to their own natural state called as 
+‘violent motion’ (Force dependent). Further, he 
+said, when two diff ernt mass bodies are dropped 
+from a height, the heavier body falls faster than 
+the lighter one.
+Galileo proposed the following concepts 
+about force, motion and inertia of bodies:
+(i)
+Th e natural state of all earthly bodies
+is either the state of rest or the state of 
+uniform motion.
+(ii)
+A body in motion will continue to be in
+the same state of motion as long as no
+external force is applied.
+(iii) When a force is applied on bodies, they
+resist any change in their state. Th is
+property of bodies is called ‘inertia’.
+(iv) When dropped from a height in vacuum,
+bodies of diff erent size, shape and mass
+fall at the same rate and reach the ground
+at the same time.
+ 1.2  INERTIA 
+While you are travelling in a bus or in a car, 
+when a sudden brake is applied, the upper part of 
+your body leans in the forward direction. Similarly, 
+when the vehicle suddenly is move forward from 
+rest, you lean backward. Th is is due to, any body 
+would like to continue to be in its state of rest or 
+the state of motion. Th is is known as ‘inertia’.
+Th e inherent property of a body to resist 
+any change in its state of rest or the state of 
+uniform motion, unless it is infl uenced upon 
+by an external unbalanced force, is known as 
+‘inertia’.
+ Activity 1
+Take a glass tumbler and place a small 
+cardboard on it as shown in the fi gure. Now, 
+keep a coin at the centre of the cardboard. 
+Th en, fl ick the cardboard quickly. What do 
+you observe?
+Th e cardboard falls off  the ground and 
+the coin falls into the glass tumbler.
+Inertia of rest
+In activity described above, the inertia of 
+the coin keeps it in the state of rest when the 
+cardboard moves. Th en, when the cardboard 
+has moved, the coin falls into the tumbler due 
+to gravity. Th is happen due to ‘inertia of rest’.
+1.2.1 Types of Inertia
+a)
+Inertia of rest: Th e
+resistance of a body to
+change its state of rest
+is called inertia of rest.
+b)
+Inertia of motion: Th e
+resistance of a body to
+10th_Science_Unit-1.indd   2
+21-02-2019   18:32:40
+
+3
+Laws of motion
+ 1.4   NEWTON’S LAWS OF 
+MOTION
+1.4.1 Newton’s First Law
+This law states that every body continues 
+to be in its state of rest or the state of uniform 
+motion along a straight line unless it is acted 
+upon by some external force. It gives the 
+definition of force as well as inertia.
+1.4.2 Force
+Force is an external effort in the form of 
+push or pull, which:  
+1. produces or tries to produce the motion of
+a static body.
+2. stops or tries to stop a moving body.
+3. changes or tries to change the direction of
+motion of  a moving body.
+Force has both magnitude and direction.
+So, it is a vector quantity.
+1.4.3 Types of forces
+Based on the direction in which the forces 
+act, they can be classified into two types as: 
+(a) Like parallel forces and (b) Unlike parallel
+forces.
+(a) Like parallel forces: Two or more forces of
+equal or unequal magnitude acting along
+the same direction, parallel to each other
+are called like parallel forces.
+(b) Unlike parallel forces: If two or more equal
+forces or unequal forces act along opposite
+directions parallel to each other, then they
+are called unlike parallel forces. Action of
+forces are given in Table 1.1.
+1.4.4 Resultant Force
+When several forces act simultaneously on 
+the same body, then the combined effect of the 
+multiple forces can be represented by a single 
+force, which is termed as ‘resultant force’. It is 
+equal to the vector sum (adding the magnitude 
+of the forces with their direction) of all the forces.
+change its state of motion is called inertia 
+of motion.
+c)
+Inertia of direction: The resistance of a
+body to change its direction of motion is
+called inertia of direction.
+1.2.2 Examples of Inertia 
+ An athlete runs some distance before
+jumping. Because, this will help him jump
+longer and higher. (Inertia of motion)
+ When you make a sharp turn while driving
+a car, you tend to lean sideways, (Inertia of
+direction).
+ When you vigorously shake the branches
+of a tree, some of the leaves and fruits are
+detached and they fall down, (Inertia of rest).
+Figure 1.1 Inertia of motion
+ 1.3  LINEAR MOMENTUM
+The impact of a force is more if the 
+velocity and the mass of the body is more. To 
+quantify the impact of a force exactly, a new 
+physical quantity known as linear momentum 
+is defined. The linear momentum measures the 
+impact of a force on a body. 
+The product of mass and velocity of a 
+moving body gives the magnitude of linear 
+momentum. It acts in the direction of the 
+velocity of the object. Linear momentum is a 
+vector quantity. 
+Linear Momentum = mass × velocity
+p = m v . . . . . . . . . .(1.1)
+It helps to measure the magnitude of 
+a force. Unit of momentum in SI system is 
+kg m s–1 and in C.G.S system its unit is g cm s-1.
+10th_Science_Unit-1.indd   3
+21-02-2019   18:32:41
+
+4
+10th Standard Science
+If the resultant force of all the forces 
+acting on a body is equal to zero, then the body 
+will be in equilibrium. Such forces are called 
+balanced forces. If the resultant force is not 
+equal to zero, then it causes the motion of the 
+body due to unbalanced forces 
+Examples: Drawing water from a well, force 
+applied with a crow bar, forces on a weight 
+balance, etc.
+A system can be brought to equilibrium 
+by applying another force, which is equal to the 
+resultant force in magnitude, but opposite in 
+direction. Such force is called as ‘Equilibrant’.
+1.4.5  Rotating Effect of Force
+Have you observed the position of the 
+handle in a door? It is always placed at the 
+edge of door and not at some other place. 
+Why? Have you tried to push a door by 
+placing your hand closer to the hinges or the 
+fixed edge? What do you observe? 
+The door can be easily opened or closed 
+when you apply the force at a point far away 
+from the fixed edge. In this case, the effect 
+of the force you apply is to turn the door 
+about the fixed edge. This turning effect of 
+the applied force is more when the distance 
+between the fixed edge and the point of 
+application of force is more. 
+Hinges
+Axis of rotation
+Axis of rotation
++z
+z
+d
+O
+F
+Figure 1.3 Rotating effect of a force
+The axis of the fixed edge about which 
+the door is rotated is called as the ‘axis of 
+rotation’. Fix one end of a rod to the floor/wall, 
+and apply a force at the other end tangentially. 
+(a) Unlike parallel forces –
+Tug of war
+(b) Unbalanced forces -
+Action of a lever
+(c) Like parallel forces
+Figure 1.2 Combined effect of forces
+Table 1.1 Action of forces
+Action of forces 
+Diagram
+Resultant force (Fnet)
+Parallel forces are acting in the same 
+direction
+F1
+F2
+Fnet = F1 + F2
+Parallel unequal forces are acting in 
+opposite directions
+ 
+F1
+F2
+Fnet = F1 – F2 (if F1 > F2)
+Fnet = F2 – F1 (if F2 > F1)
+Fnet is directed along
+the greater force.
+Parallel equal forces are acting in opposite 
+directions in the same line of action (F1 = F2)
+ 
+F1
+F2
+Fnet = F1 – F2 (F1 = F2)
+Fnet = 0
+10th_Science_Unit-1.indd   4
+21-02-2019   18:32:42
+
+5
+Laws of motion
+The rod will be turned about the fixed point 
+is called as ‘point of rotation’. 
+1.4.6 Moment of the Force
+The rotating or turning effect of a force 
+about a fixed point or fixed axis is called 
+moment of the force about that point or 
+torque (τ). It is measured by the product 
+of the force (F) and the perpendicular 
+distance (d) between the fixed point or 
+the fixed axis and the line of action of the 
+force. 
+τ = F × d . . . . . . . . . . (1.2)
+Torque is a vector quantity. It is acting 
+along the direction, perpendicular to the 
+plane containing the line of action of force 
+and the distance. Its SI unit is N m.
+Couple: Two equal and unlike parallel forces 
+applied simultaneously at two distinct points 
+constitute a couple. The line of action of the 
+two forces does not coincide. It does not 
+produce any translatory motion since the 
+resultant is zero. But, a couple results in causes 
+the rotation of the body. Rotating effect of a 
+couple is known as moment of a couple.
+Examples: Turning a tap, winding or 
+unwinding a screw, spinning of a top, etc.
+Moment of a couple is measured by 
+the product of any one of the forces and the 
+perpendicular distance between the line of 
+action of two forces. The turning effect of a 
+couple is measured by the magnitude of its 
+moment.
+Moment of a couple =  Force × perpendicular 
+distance between the 
+line of action of forces
+M = F × S . . . . . . . . . . . . (1.3)
+The unit of moment of a couple is newton 
+metre (N m) in SI system and dyne cm in 
+CGS system. 
+By convention, the direction of moment of 
+a force or couple is taken as positive if the body 
+is rotated in the anti-clockwise direction and 
+negative if it is rotate in the clockwise direction. 
+They are shown in Figures 1.4 (a and b)
+Figure 1.4 (b)  
+Anticlockwise moment
+Figure 1.4 (a)  
+Clockwise moment
+s
+s
+F
+F
+F
+F
+1.4.7 Application of Torque 
+1. Gears:
+A gear is a circular 
+wheel with teeth around its 
+rim. It helps to change the 
+speed of rotation of a wheel 
+by changing the torque and 
+helps to transmit power.
+2. Seasaw
+Most of you have played on the seasaw. 
+Since there is a difference in the weight of the 
+persons sitting on it, the heavier person lifts 
+the lighter person. When the heavier person 
+comes closer to the pivot point (fulcrum) 
+the distance of the line of action of the force 
+decreases. It causes less amount of torque to 
+act on it. This enables the lighter person to lift 
+the heavier person.
+3. Steering Wheel
+A small steering wheel enables you to
+manoeuore a car easily by transferring a 
+torque to the wheels with less effort.
+1.4.8 Principle of Moments
+When a number of like or unlike parallel 
+forces act on a rigid body and the body is in 
+equilibrium, then the algebraic sum of the 
+moments in the clockwise direction is equal 
+to the algebraic sum of the moments in the 
+anticlockwise direction. In other words, at 
+10th_Science_Unit-1.indd   5
+21-02-2019   18:32:42
+
+6
+10th Standard Science
+equilibrium, the algebraic sum of the moments 
+of all the individual forces about any point is 
+equal to zero.
+clockwise 
+moment
+anticlockwise 
+moment
+F1
+d1
+d2
+F2
+Figure 1.5 Principle of moments
+P
+In the illustration given in figure 1.5, the 
+force F1 produces an anticlockwise rotation at 
+a distance d1 from the point of pivot P (called 
+fulcrum) and the force F2 produces a clockwise 
+rotation at a distance d2 from the point of pivot 
+P. The principle of moments can be written as
+follows:
+Moment in 
+clockwise direction = Moment in
+anticlockwise direction
+F1 × d1 =  F2 × d2  . . . . . . . . (1.4)
+ 1.5   NEWTON’S SECOND LAW 
+OF MOTION
+According to this law, “the force acting 
+on a body is directly proportional to the rate 
+of change of linear momentum of the body 
+and the change in momentum takes place in 
+the direction of the force”.
+This law helps us to measure the amount 
+of force. So, it is also called as ‘law of force’. 
+Let, ‘m’ be the mass of a moving body, moving 
+along a straight line with an initial speed ‘u’ 
+After a time interval of ‘t’, the velocity of the 
+body changes to ‘v’ due to the impact of an 
+unbalanced external force F.
+Initial momentum of the body Pi = mu
+Final momentum of the body Pf = mv 
+Change in momentum 
+Δp = Pf –Pi 
+ = mv  –  mu
+By Newton’s second law of motion, 
+Force, F ∝ rate of change of momentum
+F ∝ change in momentum / time
+F ∝ mv – mu
+t
+F = km(v – u)
+t
+Here, k is the proportionality constant. 
+k = 1 in all systems of units. Hence,
+F = m(v – u)
+(1.5)
+t
+Since, acceleration = change in velocity/
+time, a=(v-u)/t. Hence, we have
+F = m × a  
+ (1.6)
+Force = mass × acceleration
+No external force is required to maintain 
+the motion of a body moving with uniform 
+velocity. When the net force acting on a 
+body is not equal to zero, then definitely the 
+velocity of the body will change. Thus, change 
+in momentum takes place in the direction of 
+the force. The change may take place either in 
+magnitude or in direction or in both.  
+Force 
+is 
+required 
+to 
+produce 
+the 
+acceleration of a body. In a uniform circular 
+motion, even though the speed (magnitude of 
+velocity) remains constant, the direction of the 
+velocity changes at every point on the circular 
+path. So, the acceleration is produced along 
+the radius called as centripetal acceleration. 
+The force, which produces this acceleration 
+is called as centripetal force, about which you 
+have learnt in class IX. 
+Units of force: SI unit of force is newton (N)
+and in C.G.S system its unit is dyne.
+Definition of 1 newton (N):  The amount of 
+force required for a body of mass 1 kg produces 
+an acceleration of 1 m s
+–2, 1 N = 1 kg m s
+–2
+Definition of  1 dyne: The amount of force 
+required for a body of mass 1 gram produces 
+an acceleration of 1 cm s
+–2, 1 dyne = 1 g cm s
+–2; 
+also 1 N = 10
+5 dyne.
+10th_Science_Unit-1.indd   6
+21-02-2019   18:32:43
+
+7
+Laws of motion
+Unit force:
+The amount of force required to produce 
+an acceleration of 1 m s
+–2 in a body of mass 
+1 kg is called ‘unit force’.
+Gravitational unit of force:
+In the SI system of units, gravitational 
+unit of force is kilogram force, represented by 
+kg f. In the CGS system its unit is gram force, 
+represented by g f.
+1 kg f = 1 kg × 9.8 m s
+-2 = 9.8 N;
+1 g f = 1 g × 980 cm s
+-2 = 980 dyne
+ 1.6  Impulse
+A large force acting for a very short 
+interval of time is called as ‘Impulsive force’. 
+When a force F acts on a body for a period of 
+time t, then the product of force and time is 
+known as ‘impulse’ represented by ‘J’
+Impulse, J = F × t 
+(1.7)
+By Newton’s second law
+F = Δp / t  (Δ refers to change)
+Δp = F × t 
+(1.8)
+From 1.7 and 1.8
+J = Δp
+Impulse is also equal to the magnitude of 
+change in momentum. Its unit is kg m s–1 or N s.
+Change in momentum can be achieved in 
+two ways. They are: 
+i.
+ a large force acting for a short period of
+time and
+ii.  a smaller force acting for a longer period
+of time.
+Examples:
+  Automobiles are fitted with springs and
+shock absorbers to reduce jerks while
+moving on uneven roads.
+ In cricket, a fielder pulls back his hands
+while catching the ball. He experiences
+a smaller force for a longer interval of
+time to catch the ball, resulting in a lesser
+impulse on his hands.
+Figure 1.6 Example of impulsive force
+1.7   NEWTON’S THIRD LAW 
+OF MOTION
+Newton’s third law states that ‘for every 
+action, there is an equal and opposite reaction. 
+They always act on two different bodies’.
+If a body A applies a force FA on a body 
+B, then the body B reacts with force FB on the 
+body A, which is equal to FA in magnitude, but 
+opposite in direction. FB = –FA 
+Examples:
+ When birds fly they push the air
+downwards with their wings (Action)
+and the air pushes the bird upwards
+(Reaction).
+ When a person swims he pushes the water
+using the hands backwards (Action), and
+the water pushes the swimmer in the
+forward direction (Reaction).
+ When you fire a bullet, the gun recoils
+backward and the bullet is moving
+forward (Action) and the gun equalises
+this forward action by moving backward
+(Reaction).
+1.8   PRINCIPLE OF 
+CONSERVATION OF LINEAR 
+MOMENTUM
+There is no change in 
+the linear momentum of a 
+system of bodies as long as 
+no net external force acts on 
+them.
+10th_Science_Unit-1.indd   7
+21-02-2019   18:32:43
+
+8
+10th Standard Science
+filled with a fuel (either liquid or solid) in the 
+propellant tank. When the rocket is fired, this 
+fuel is burnt and a hot gas is ejected with a high 
+speed from the nozzle of the rocket, producing 
+a huge momentum. To balance this momentum, 
+an equal and opposite reaction force is produced 
+in the combustion chamber, which makes the 
+rocket project forward.
+While in motion, the mass of the rocket 
+gradually decreases, until the fuel is completely 
+burnt out. Since, there is no net external force 
+acting on it, the linear momentum of the 
+system is conserved. The mass of the rocket 
+decreases with altitude, which results in the 
+gradual increase in velocity of the rocket. 
+At one stage, it reaches a velocity, which is 
+sufficient to just escape from the gravitational 
+pull of the Earth. This velocity is called escape 
+velocity. (This topic will be discussed in detail 
+in higher classes).
+1.10  GRAVITATION
+1.10.1  Newton’s universal law of 
+gravitation
+This law states that every particle of 
+matter in this universe attracts every other 
+particle with a force. This force is directly 
+proportional to the product of their masses 
+and inversely proportional to the square of 
+the distance between the centers of these 
+masses. The direction of the force acts along 
+the line joining the masses. 
+Force between the masses is always 
+attractive and it does not depend on the 
+medium where they are placed.
+Figure 1.8 Gravitational force between 
+two masses
+m1
+m2
+F1
+r
+F2
+Let us prove the law of conservation 
+of linear momentum with the following 
+illustration:
+u1
+m1
+A
+m2
+m2
+m1
+m2
+m2
+m1
+m2
+u2
+v1
+v2
+FA
+FB
+B
+A
+B
+A
+B
+Figure 1.7 Conservation of 
+linear momentum
+Proof:
+Let two bodies A and B having masses 
+m1 and m2 move with initial velocity u1 and u2 
+in a straight line. Let the velocity of the first 
+body be higher than that of the second body. 
+i.e., u1>u2.  During an interval of time t second,
+they tend to have a collision.  After the impact,
+both of them move along the same straight line
+with a velocity v1 and v2 respectively.
+Force on body B due to A,
+FB= m2 (v2–u2)/t
+Force on body A due to B,
+FA = m1 (v1–u1)/t
+By Newton’s III law of motion, 
+Action force =  Reaction force
+FA 
+= –FB 
+m1 (v1-u1)/t  
+= –m2 (v2-u2)/t  
+m1v1 + m2v2 = m1u1 + m2u2  ------ (1.9) 
+The above equation confirms in the 
+absence of an external force, the algebraic 
+sum of the momentum after collision is 
+numerically equal to the algebraic sum of the 
+momentum before collision. 
+Hence the law of conservation linear 
+momentum is proved.
+ 1.9  ROCKET PROPULSION
+Propulsion of rockets is based on the law 
+of conservation of linear momentum as well 
+as Newton’s III law of motion. Rockets are 
+10th_Science_Unit-1.indd   8
+21-02-2019   18:32:44
+
+9
+Laws of motion
+Let, m1 and m2 be the masses of two bodies 
+A and B placed r metre apart in space
+Force 
+F ∝ m1 × m2  
+F ∝ 1/ r2
+On combining the above two expressions
+F ∝ 
+m1 × m2
+r
+2
+F = 
+G m1 m2
+r
+2
+ . . . . . . . . . . . . . . . . . .(1.10)
+Where G is the universal gravitational 
+constant. Its value in SI unit is 6.674 × 10
+–11 
+N m
+2 kg
+–2.
+1.10.2  Acceleration due to 
+gravity (g)
+When you throw any object upwards, its 
+velocity ceases at a particular height and then 
+it falls down due to the gravitational force of 
+the Earth.
+The velocity of the object keeps changing 
+as it falls down. This change in velocity must 
+be due to the force acting on the object. The 
+acceleration of the body is due to the Earth’s 
+gravitational force. So, it is called as ‘acceleration 
+due to the gravitational force of the Earth’ or 
+‘acceleration due to gravity of the Earth’. It is 
+represented as ‘g’. Its unit is m s
+–2 
+Mean value of the acceleration due to 
+gravity is taken as 9.8 m s
+–2 on the surface of the 
+Earth. This means that the velocity of a body 
+during the downward free fall motion varies 
+by 9.8 m s
+–1 for every 1 second.  However, the 
+value of ‘g’ is not the same at all points on the 
+surface of the earth.
+1.10.3 Relation between g and G
+When a body is at rests on the surface of 
+the Earth, it is acted upon by the gravitational 
+force of the Earth. Let us compute the 
+magnitude of this force in two ways. Let, M 
+be the mass of the Earth and m be the mass 
+of the body.  The entire mass of the Earth is 
+assumed to be concentrated at its centre. The 
+radius of the Earth is R = 6378 km (= 6400 km 
+approximately). By Newton’s law of gravitation, 
+the force acting on the body is given by
+F = 
+G M m
+R
+2
+Figure 1.9 Relation between g and G
+Earth
+Object
+R
+F
+M
+m
+Here, the radius of the body considered 
+is negligible when compared with the Earth’s 
+radius. Now, the same force can be obtained 
+from Newton’s second law of motion. 
+According to this law, the force acting on 
+the body is given by the product of its mass 
+and acceleration (called as weight). Here, 
+acceleration of the body is under the action 
+of gravity hence a = g
+F = m a = m g
+F = weight = mg  -------------------  (1.12)
+Comparing equations (1.7) and (1.8), we get
+mg = GMm
+R
+2
+ ------------------------  (1.13)
+Acceleration due to gravity
+g = GM
+R
+2   -------------------------------  (1.14)
+1.10.4 Mass of the Earth (M)
+Rearranging the equation (1.14), the mass 
+of the Earth is obtained as follows: 
+Mass of the Earth M = g R
+2/G
+Substituting the known values of g, R and G, 
+you can calculate the mass of the Earth as
+M = 5.972 × 10
+24 kg
+(1.11)
+10th_Science_Unit-1.indd   9
+21-02-2019   18:32:44
+
+10
+10th Standard Science
+1.10.5  Variation of acceleration 
+due to gravity (g):
+Since, g depends on the geometric radius 
+of the Earth, (g ∝ 1/R
+2), its value changes 
+from one place to another on the surface of 
+the Earth. Since, the geometric radius of the 
+Earth is maximum in the equatorial region and 
+minimum in the polar region, the value of g is 
+maximum in the polar region and minimum at 
+the equatorial region. 
+When you move to a higher altitude from 
+the surface of the Earth, the value of g reduces. 
+In the same way, when you move deep below 
+the surface of the Earth, the value of g reduces. 
+(This topic will be discussed in detail in the 
+higher classes). Value of g  is zero at the centre 
+of the Earth.
+ 1.11  MASS AND WEIGHT
+Mass: Mass is the basic property of a body. 
+Mass of a body is defined as the quantity of 
+matter contained in the body. Its SI unit is 
+kilogram (kg). 
+Weight: Weight of a body is defined as the 
+gravitational force exerted on it due to the 
+Earth’s gravity alone.
+Weight = Gravitational Force
+=  mass (m)× acceleration due to 
+gravity(g).
+g = acceleration due to gravity for Earth 
+(at sea level) = 9.8 m s
+–2.
+Weight is a vector quantity. Direction 
+of weight is always towards the centre of 
+the Earth. SI unit of weight is newton (N). 
+Weight of a body varies from one place to 
+another place on the Earth since it depends 
+on the acceleration due to gravity of the 
+Earth (g) weight of a body is more at the poles 
+than at the equatorial region. 
+The value of acceleration due to gravity 
+on the surface of the moon is 1.625 ms–2. This 
+is about 0.1654 times the acceleration due to 
+gravity of the Earth. If a person whose mass 
+is 60 kg stands on the surface of Earth, his 
+weight would be 588 N (W = mg = 60 × 9.8). 
+If the same person goes to the surface of the 
+Moon, he would weigh only 97.5 N (W = 60 
+× 1.625). But, his mass remains the same (60 
+kg) on both the Earth and the Moon.
+1.12  APPARENT WEIGHT
+The weight that you 
+feel to possess during up 
+and down motion, is not 
+same as your actual weight. 
+Apparent weight is the 
+weight of the body acquired 
+due to the action of gravity 
+and other external forces 
+acting on the body.
+Let us see this from the 
+following illustration:
+Let us consider a person of mass m, who 
+is travelling in lift. The actual weight of the 
+person is W = mg, which is acting vertically 
+downwards. The reaction force exerted by the 
+lift’s surface ‘R’, taken as apparent weight is 
+acting vertically upwards.
+Let us see different possibilities of the 
+apparent weight 'R' of the person that arise, 
+depending on the motion of the lift; upwards 
+or downwards  which are given in Table 1.2
+1.12.1 Weightlessness
+Have you gone to an 
+amusement park and taken 
+a ride in a roller coaster? or 
+in a giant wheel? During 
+the fast downward and 
+upward movement, how 
+did you feel? 
+mg
+R
+W
+Figure 1.10 
+A person in a 
+moving lift
+10th_Science_Unit-1.indd   10
+21-02-2019   18:32:44
+
+11
+Laws of motion
+Table 1.2 Apparent weight of a person in a moving lift
+Case 1: Lift 
+is moving 
+upward with an 
+acceleration 'a'
+Case 2: Lift 
+is moving 
+downward with 
+an acceleration 'a'
+Case 3: Lift is at rest.
+Case 4: Lift is falling down 
+freely
+R – W = Fnet = ma
+R = W + ma
+R = mg + ma
+R = m(g+a)  
+W – R = Fnet = ma
+R = W - ma  
+R = mg - ma
+R = m(g-a)
+Here, the acceleration is zero 
+a = 0
+R = W 
+R= mg
+Here, the acceleration is 
+equal to g 
+a = g
+R = m(g – g) 
+R > W
+R < W
+R = W
+R = 0
+Apparent weight  
+is greater than the 
+actual weight.
+Apparent weight 
+is lesser than the 
+actual weight.
+Apparent weight is equal 
+to the actual weight.
+Apparent weight is equal 
+to zero.
+Figure 1.11 Weightlessness in a roller coaster
+Its amazing!!. You actually feel as if you are 
+falling freely without having any weight. This is 
+due to the phenomenon of ‘weightlessness’. You 
+seem to have lost your weight when you move 
+down with a certain acceleration. Sometimes, 
+you experience the same feeling while travelling 
+in a lift.
+When the person in a lift moves down with 
+an acceleration (a) equal to the acceleration due 
+to gravity (g), i.e., when a = g, this motion is 
+called as ‘free fall’. Here, the apparent weight 
+(R = m (g – g) = 0) of the person is zero. 
+This condition or state refers to the state of 
+weightlessness. (Refer case 4 from Table 1.2). 
+The same effect takes place while falling 
+freely in a roller coaster or on a swing or in a 
+vertical giant wheel. You feel an apparent weight 
+loss and weight gain when you are moving up 
+and down in such rides.
+1.12.2  Weightlessness of 
+the astronauts
+Some of us believe that the astronauts in 
+the orbiting spacestation do not experience 
+any gravitational force of the Earth. So they 
+float. But this is absolutely wrong. 
+Astronauts are not floating but falling 
+freely around the earth due to their huge 
+oribital velocity. Since spacestation and 
+astronauts have equal acceleration, they are 
+under free fall condition. (R  = 0 refer case 
+4 in Table 1.2). Hence, both the astronauts 
+and the spacestation are in the state of 
+weightlessness.
+Figure 1.12 Weightlessness of astronauts
+10th_Science_Unit-1.indd   11
+21-02-2019   18:32:44
+
+12
+10th Standard Science
+1.12.3  Application of Newton’s 
+law of gravitation
+1)  Dimensions of the heavenly bodies can be
+measured using the gravitation law. Mass of
+the Earth, radius of the Earth, acceleration
+due to gravity, etc. can be calculated with a
+higher accuracy.
+2)  Helps in discovering new stars and planets.
+3)  One of the irregularities in the motion
+of stars is called ‘Wobble’ lead to the
+disturbance in the motion of a planet nearby.
+In this condition the mass of the star can be
+calculated using the law of gravitation.
+4)  Helps to explain germination of roots is due
+to the property of geotropism which is the
+property of a root responding to the gravity.
+5)  Helps to predict the path of the astronomical
+bodies.
+Points to Remember
+
+ Mechanics is divided into statics and
+dynamics.
+
+ Ability of a body to maintain its state of
+rest or motion is called Inertia.
+
+ Moment of the couple is measured by
+the product of any one of the forces and
+the perpendicular distance between two
+forces.
+
+ SI unit of force is newton (N). C.G.S unit
+is dyne.
+
+ When a force F acts on a body for a period
+of time t, then the product of force and
+time is known as ‘impulse’.
+
+ The unit of weight is newton or kg f
+
+ The weight of a body  is more at the poles
+than at the equatorial region.
+
+ Mass of a body is defined as the quantity of
+matter contained in the object. Its SI unit
+is kilogram (kg).
+
+ Apparent weight is the weight of the body
+acquired due to the action of gravity and
+other external forces on the body.
+
+ Whenever a body or a person falls freely
+under the action of Earth’s gravitational
+force alone, it appears to have zero
+weight. This state is referred to as
+‘weightlessness’.
+SOLVED PROBLEMS 
+Problem-1: Calculate the velocity of a moving 
+body of mass 5 kg whose linear momentum is 
+2.5 kg m s–1.
+Solution: Linear momentum = mass × velocity
+Velocity = linear momentum / mass. 
+V = 2.5 / 5 = 0.5 m s–1
+Problem 2: A door is pushed, at a point whose 
+distance from the hinges is 90 cm, with a force 
+of 40 N. Calculate the moment of the force 
+about the hinges.
+Solution:   
+Formula: The moment of a force M = F × d
+Given: F = 40 N and d = 90 cm = 0.9 m.
+Hence, moment of the force = 40 × 0.9 = 36 N m.
+Problem 3 : At what height from the centre of 
+the Earth the acceleration due to gravity will be 
+1/4
+th of its value as at the Earth.
+Solution: 
+Data: Height from the centre of the Earth,  
+Rʹ = R + h  
+The acceleration due to gravity at that height, 
+gʹ = g/4 
+Formula: g = GM /R2
+ g
+gʹ = Rʹ
+ R
+2 = R+h
+R
+2 = 1 +  h
+R
+2
+4 =  1 +  h
+R
+2,
+2 = 1 +  h
+R
+or h = R. 
+Rʹ = 2R
+From the centre of the Earth, the object is placed 
+at twice the radius of the earth.
+10th_Science_Unit-1.indd   12
+21-02-2019   18:32:44
+
+13
+Laws of motion
+I. Choose the correct answer
+1) Inertia of a body depends on
+a) weight of the object
+b) acceleration due to gravity of the planet
+c) mass of the object
+d) Both a & b
+2) Impulse is equals to
+a) rate of change of momentum
+b) rate of force and time
+c) change of momentum
+d) rate of change of mass
+3) Newton’s III law is applicable
+a) for a body is at rest
+b) for a body in motion
+c) both a & b
+d) only for bodies with equal masses
+4)  Plotting a graph for momentum on the
+X-axis and time on Y-axis. slope of momen-
+tum-time graph gives
+a) Impulsive force  b) Acceleration
+c) Force
+d) Rate of force
+5)  In which of the following sport the turning
+of effect of force used
+a) swimming
+b) tennis
+c) cycling
+d) hockey
+6)  The unit of ‘g’ is m s-2. It can be also expressed as
+a) cm s-1
+ b) N kg-1
+c) N m2 kg-1
+ d) cm2 s-2
+7) One kilogram force equals to
+a) 9.8 dyne
+b) 9.8 × 104 N
+c) 98 × 104 dyne 
+d) 980 dyne
+8)  The mass of a body is measured on planet
+Earth as M kg. When it is taken to a planet
+of radius half that of the Earth then its value
+will be____kg
+a) 4 M
+b) 2M
+c) M/4  
+d) M
+ TEXTBOOK EVALUATION 
+9)  If the Earth shrinks to 50% of its real radius
+its mass remaining the same, the weight of  a
+body on the Earth will
+a) decrease by 50%     b) increase by 50%
+c) decrease by 25%     d) increase by 300%
+10)  To project the rockets which of the follow-
+ing principle(s) is /(are) required?
+a) Newton’s third law of motion
+b) Newton’s law of gravitation
+c) law of conservation of linear momentum
+d) both a and c
+II. Fill in the blanks
+1. To produce a displacement ___________
+is required
+2. Passengers lean forward when sudden
+brake is applied in a moving vehicle. This
+can be explained by ___________
+3. By convention, the clockwise moments
+are taken as ___________ and the
+anticlockwise 
+moments 
+are 
+taken
+as__________
+4. ___________ is used to change the speed
+of car.
+5. A man of mass 100 kg has a weight of
+___________ at the surface of the Earth
+III.  State whether the following statements
+are true or false. Correct the statement
+if it is false:
+1. The linear momentum of a system of
+particles is always conserved.
+2. Apparent weight of a person is always equal
+to his actual weight
+3. Weight of a body is greater at the equator
+and less at the polar region.
+4. Turning a nut with a spanner having a
+short handle is so easy than one with a long
+handle.
+5. There is no gravity in the orbiting space
+station around the Earth. So the astronauts
+feel weightlessness.
+10th_Science_Unit-1.indd   13
+21-02-2019   18:32:44
+
+14
+10th Standard Science
+IV. Match the following
+Column I
+Column II
+a. Newton’s I law
+- propulsion of a
+rocket
+b. Newton’s II law
+- Stable equilibrium of
+a body
+c. Newton’s III law
+- Law of force
+d.  Law of conservation
+of Linear momentum
+- Flying nature of bird
+V. Assertion & Reasoning
+Mark the correct choice as
+(a) If both the assertion and the reason
+are true and the reason is the correct
+explanation of assertion.
+(b) If both the assertion and the reason are
+true, but the reason is not the correct ex-
+planation of the assertion.
+(c) Assertion is true, but the reason is false.
+(d) Assertion is false, but the reason is true.
+1. Assertion: The sum of the clockwise
+moments is equal to the sum of the
+anticlockwise moments.
+ Reason: The principle of conservation of
+momentum is valid if the external force on
+the system is zero.
+2. Assertion: The value of ‘g’ decreases as
+height and depth increases from the surface 
+of the Earth.
+ Reason: ‘g’ depends on the mass of the
+object and the Earth.
+VI.  Answer briefly.
+1. Define inertia. Give its classification.
+2. Classify the types of force based on their
+application.
+3. If a 5 N and a 15 N forces are acting opposite
+to one another.  Find the resultant force and
+the direction of action of the resultant force
+4. Differentiate mass and weight.
+5. Define moment of a couple.
+6. State the principle of moments.
+7. State Newton’s second law.
+8. Why a spanner with a long handle is
+preferred to tighten screws in heavy
+vehicles?
+9. While catching a cricket ball the fielder
+lowers his hands backwards.  Why?
+10. How does an astronaut float in a space
+shuttle?
+VII. Solve the given problems
+1. Two bodies have a mass ratio of 3:4 The
+force applied on the bigger mass produces
+an acceleration of 12 ms-2.What could be
+the acceleration of the other body, if the
+same force acts on it.
+2. A ball of mass 1 kg moving with a speed
+of 10 ms-1 rebounds after  a perfect elastic
+collision with the floor. Calculate the
+change in linear momentum of the ball.
+3. A mechanic unscrew a nut by applying a
+force of 140 N with a spanner of length
+40 cm. What should be the length of the
+spanner if a force of 40 N is applied  to
+unscrew  the same nut?
+4. The ratio of masses of two planets is 2:3
+and the ratio of their radii is 4:7 Find the
+ratio of their accelerations due to gravity.
+VIII.  Answer in detail.
+1. What are the types of inertia? Give an
+example for each type.
+2. State Newton’s laws of motion?
+3. Deduce the equation of a force using
+Newton’s second law of motion.
+4. State and prove the law of conservation of
+linear momentum.
+5. Describe rocket propulsion.
+6. State the universal law of gravitation and
+derive its mathematical expression
+7. Give the applications of universal law
+gravitation.
+10th_Science_Unit-1.indd   14
+21-02-2019   18:32:44
+
+15
+Laws of motion
+IX. HOT Questions
+1.
+Two blocks of masses 8 kg and 2 kg
+respectively lie on a smooth horizontal surface 
+in contact with one other.  They are pushed by
+a horizontally applied force of 15 N. Calculate
+the force exerted on the 2 kg  mass.
+2. A heavy truck and bike are moving with
+the same kinetic energy. If the mass of
+the truck is four times that of the bike,
+then calculate the ratio of their momenta.
+(Ratio of momenta = 1:2
+3. “Wearing helmet and fastening the seat belt
+is highly recommended for safe journey”
+Justify your answer using Newton’s laws of
+motion.
+ REFERENCE BOOKS
+ Concept of physics-HC verma
+ Interactive physics(Newton’s law)MTG
+learning.
+INTERNET RESOURCES
+https://www.grc.nasa.gov 
+https://www.physicsclassroom.com 
+https://www.britannica.com/science/
+Newtons-law-of-gravitation  
+Kinematics
+Statics
+Dynamics
+Aristotle
+Gallieo
+Issac newton
+First law of motion
+Inertia and its types
+Second law of motion
+Momentum and force
+Mass and weight
+Third law of motion
+Apparent weight
+Weightlessness
+Gravitation
+Universal law
+of gravitation
+Variation of g 
+Concept Map
+Link
+http://amrita.olabs.edu.in/?sub=1&brch=1&sim=44&cnt=4 
+ICT CORNER
+Newton’s second law
+•
+Open the browser and type “olabs.edu.in”  in the address bar. Click physics tab and then click “Newton’s 
+second ” under class 9 section. Go to “simulator” tab to do the experiment.
+•
+Select the desired Cart mass (M1) and vertical mass (M2) using respective slider. Also select the desired
+distance (s) by moving the slider. Click on the “Start” button to start the experiment.
+•
+Observe the time and note it down. Calculate acceleration (a) of the cart using the formula a = 2s/t2.
+Find the fore due to rate of change of momentum using (M1+M2) a.
+•
+Calculate force F = M2 g.
+•
+You will observe (M1+M2)a = M2 g . Hence Newton’s Second Law is verified. Repeat 
+the experiment with different masses. Also do this in different environment like
+Earth, Moon, Uranus and Jupiter. Click reset to restart the experiment.
+Steps
+10th_Science_Unit-1.indd   15
+21-02-2019   18:32:45
+
+
+
+--- Tamilnadu-Board-Class-10-Science-Textbook-Chapter-2 ---
+
+16
+10th Standard Science
+INTRODUCTION 
+Light is a form of energy which travels in 
+the form of waves. Th e path of light is called 
+ray of light and group of these rays are called 
+as beam of light. Any object which gives out 
+light are termed as source of light. Some of the 
+sources emit their own light and they are called 
+as luminous objects.  All the stars, including 
+the Sun, are examples for luminous objects. 
+We all know that we are able to see objects with 
+the help of our eyes. But, we cannot see any 
+object in a dark room. Can you explain why? 
+If your answer is ‘we need light to see objects’, 
+the next question is ‘if you make the light from 
+a torch to fall on your eyes, will you be able to 
+see the objects?’ Defi nitely, ‘NO’. We can see 
+the objects only when the light is made to fall 
+on the objects and the light refl ected from the 
+objects is viewed by our eyes. You would have 
+studied about the refl ection and refraction of 
+light elaborately in your previous classes. In this 
+chapter, we shall discuss about the scattering 
+of light, images formed by convex and concave 
+lenses, human eye and optical instruments 
+such as telescopes and microscopes.
+ 2.1  PROPERTIES OF LIGHT
+Let us recall the properties of light and the 
+important aspects on refraction of light. 
+1. Light is a form of energy.
+2. Light always travels along a straight line.
+3. Light does not need any medium for its
+propagation. It can even travel through
+vacuum.
+4. Th e speed of light in vacuum or air is,
+c = 3 × 108 ms–1.
+5. Since, light is in the form of waves, it is
+characterized by a wavelength (λ) and
+a frequency (ν), which are related by the
+following equation: c = ν λ (c - velocity of
+light).
+Learning Objectives
+At the end of this lesson, students will be able to:
+ state the laws of refraction.
+ list the properties of light.
+ explain the scattering of light and its various kinds.
+ understand the images formed by concave and convex lens.
+ analyze the ray diagram of concave and convex lens.
+ understand the working of human eye and optical instruments
+ solve numerical problems
+2
+OPTICS
+10th_Science_Unit-2.indd   16
+21-02-2019   18:34:36
+
+17
+Optics
+6. Different coloured light has different
+wavelength and frequency.
+7. Among the visible light, violet light has the
+lowest wavelength and red light has the
+highest wavelength.
+8. When light is incident on the interface
+between two media, it is partly reflected
+and partly refracted.
+ 2.2  REFRACTION OF LIGHT
+When a ray of light travels from one 
+transparent medium into another obliquely, 
+the path of the  light undergoes deviation. This 
+deviation of ray of light is called refraction. 
+Refraction takes place due to the difference 
+in the velocity of light in different media. The 
+velocity of light is more in a rarer medium and 
+less in a denser medium. Refraction of light 
+obeys two laws of refraction.
+2.2.1 First law of refraction:
+The incident ray, the refracted ray of light 
+and the normal to the refracting surface all lie 
+in the same plane.
+2.2.2 Second law of refraction:
+The ratio of the sine of the angle of 
+incidence and sine of the angle of refraction 
+is equal to the ratio of refractive indices of the 
+two media. This law is also known as Snell’s law.
+2
+sin i
+sin r
+ . . . . . . . . . . . (2.1)
+ Refractive index gives us an idea of how
+fast or how slow light travels in a medium.
+The ratio of speed of light in vacuum to
+the speed of light in a medium is defined
+as refractive index ‘µ’ of that medium.
+ The speed of light in a medium is low if the
+refractive index of the medium is high and
+vice versa.
+ When light travels from a denser medium
+into a rarer medium, the refracted ray is
+bent away from the normal drawn to the
+interface.
+ When light travels from a rarer medium
+into a denser medium, the refracted ray
+is bent towards the normal drawn to the
+interface.
+ 2.3   REFRACTION OF A 
+COMPOSITE LIGHT-
+DISPERSION OF LIGHT
+We know that Sun is the fundamental 
+and natural source of light. If a source of light 
+produces a light of single colour, it is known as 
+a monochromatic source. On the other hand, 
+a composite source of light produces a white 
+light which contains light of different colours. 
+Sun light is a composite light which consists 
+of light of various colours or wavelengths. 
+Another example for a composite source is a 
+mercury vapour lamp. What do you observe 
+when a white light is refracted through a glass 
+prism? 
+When a beam of white light or composite 
+light is refracted through any transparent 
+media such as glass or water, it is split into 
+its component colours. This phenomenon is 
+called as ‘dispersion of light’.
+The band of colours is termed as spectrum. 
+This spectrum consists of following colours: 
+Violet, Indigo, Blue, Green, Yellow, Orange, 
+and Red. These colours are represented by 
+the acronym “VIBGYOR”. Why do we get 
+the spectrum when white light is refracted 
+by a transparent medium? This is because, 
+different coloured lights are bent through 
+different angles. That is the angle of refraction 
+is different for different colours. 
+Angle of refraction is the smallest for 
+red and the highest for violet. From Snell’s 
+law, we know that the angle of refraction is 
+determined in terms of the refractive index 
+of the medium. Hence, the refractive index of 
+the medium is different for different coloured 
+lights. This indicates that the refractive index 
+of a medium is dependent on the wavelength 
+of the light. 
+10th_Science_Unit-2.indd   17
+21-02-2019   18:34:36
+
+18
+10th Standard Science
+ 2.4  SCATTERING OF LIGHT
+When 
+sunlight 
+enters 
+the 
+Earth’s 
+atmosphere, the atoms and molecules of 
+different gases present in the atmosphere 
+refract the light in all possible directions. 
+This is called as ‘Scattering of light’.  In this 
+phenomenon, the beam of light is redirected in 
+all directions when it interacts with a particle 
+of medium. The interacting particle of the 
+medium is called as ‘scatterer’.
+Figure 2.1 Scattering of light
+2.4.1 Types of scattering
+When a beam of light, interacts with 
+a constituent particle of the medium, it 
+undergoes many kinds of scattering. Based 
+on initial and final energy of the light beam, 
+scattering can be classified as, 
+1) Elastic scattering 2) Inelastic scattering
+1) Elastic scattering
+If the energy of the incident beam of light
+and the scattered beam of light are same, then 
+it is called as ‘elastic scattering’.
+2) Inelastic scattering
+If the energy of the incident beam of
+light and the scattered beam of light are not 
+same, then it is called as ‘inelastic scattering’.
+The nature and size of the scatterer results in 
+different types of scattering. They are
+• Rayleigh scattering
+• Mie scattering
+• Tyndall scattering
+• Raman scattering
+Rayleigh scattering
+The scattering of sunlight by the atoms 
+or molecules of the gases in the earth’s 
+atmosphere is known as Rayleigh scattering.
+ Rayleigh’s scattering law
+Rayleigh’s scattering law states that, “The 
+amount of scattering of light is inversely 
+proportional to the fourth power of its 
+wavelength”. 
+Amount of scattering ‘S’  ∝    1
+ λ4
+According to this law, the shorter 
+wavelength colours are scattered much more 
+than the longer wavelength colours.
+When sunlight passes through the 
+atmosphere, 
+the 
+blue 
+colour 
+(shorter 
+wavelength) is scattered to a greater extent 
+than the red colour (longer wavelength). This 
+scattering causes the sky to appear in blue 
+colour.
+At sunrise and sunset, the light rays from 
+the Sun have to travel a larger distance in the 
+atmosphere than at noon. Hence, most of the 
+blue lights are scattered away and only the 
+red light which gets least scattered reaches 
+us. Therefore, the colour of the Sun is red at 
+sunrise and sunset.
+ Mie scattering
+Mie scattering takes place when the 
+diameter of the scatterer is similar to or larger 
+than the wavelength of the incident light. It 
+is also an elastic scattering. The amount of 
+scattering is independent of wave length.
+Mie scattering is caused by pollen, dust, 
+smoke, water droplets, and other particles in 
+the lower portion of the atmosphere.
+Mie scattering is responsible for the 
+white appearance of the clouds. When white 
+light falls on the water drop, all the colours 
+are equally scattered which together form the 
+white light.
+10th_Science_Unit-2.indd   18
+21-02-2019   18:34:37
+
+19
+Optics
+Tyndall Scattering
+When a beam of sunlight, enters into a 
+dusty room through a window, then its path 
+becomes visible to us. This is because, the tiny 
+dust particles present in the air of the room 
+scatter the beam of light. This is an example of 
+Tyndall Scattering 
+The scattering of light rays by the 
+colloidal particles in the colloidal solution is 
+called Tyndall Scattering or Tyndall Effect.
+Do you Know
+Colloid is a microscopically small substance 
+that is equally dispersed throughout another 
+material. Example: Milk, Ice cream, muddy 
+water, smoke
+ Raman scattering
+When a parallel beam of monochromatic 
+(single coloured ) light passes through a gas or 
+liquid or transparent solid, a part of light  rays 
+are  scattered.
+The scattered light contains some additional 
+frequencies (or wavelengths) other than that 
+of incident frequency (or wavelength). This is 
+known as Raman scattering or Raman Effect. 
+Raman Scattering is defined as “The 
+interaction of light ray with the particles of pure 
+liquids or transparent solids, which leads to a 
+change in wavelength or frequency.”
+The spectral lines having frequency 
+equal to the incident ray frequency is called 
+‘Rayleigh line’ and the spectral lines which are 
+having frequencies other than the incident ray 
+frequency are called ‘Raman lines’. The lines 
+having frequencies lower than the incident 
+frequency is called stokes lines and the lines 
+having frequencies higher than the incident 
+frequency are called Antistokes lines. 
+You will study more about Raman Effect 
+in higher classes.
+ 2.5  LENSES
+A lens is an optically transparent medium 
+bounded by two spherical refracting surfaces 
+or one plane and one spherical surface.
+Lens is basically classified into two types. 
+They are: (i) Convex Lens (ii) Concave Lens
+(i) Convex or bi-convex lens: It is a lens
+bounded by two spherical surfaces such
+that it is thicker at the centre than at the
+edges. A beam of light passing through it,
+is converged to a point. So, a convex lens is
+also called as converging lens.
+(ii) Concave or bi-concave Lens: It is a lens
+bounded by two spherical surfaces such
+that it is thinner at the centre than at the
+edges. A parallel beam of light passing
+through it, is diverged or spread out. So, a
+concave lens is also called as diverging lens.
+2.5.1 Other types of Lenses
+Plano-convex lens: If one of the faces of a 
+bi-convex lens is plane, it is known as a plano-
+convex lens. 
+Plano-concave lens: If one of the faces 
+of a bi-concave lens is plane, it is known as a 
+plano-concave lens. 
+All these lenses are shown in Figure 2.2 
+given below:
+Figure 2.2 Types of lenses
+10th_Science_Unit-2.indd   19
+21-02-2019   18:34:37
+
+20
+10th Standard Science
+ 2.6   IMAGES FORMED DUE TO 
+REFRACTION THROUGH 
+A CONVEX AND CONCAVE 
+LENS
+When an object is placed in front of a 
+lens, the light rays from the object fall on the 
+lens. Th e position, size and nature of the image 
+formed can be understood only if we know 
+certain basic rules.
+Rule-1: When a ray of light strikes the 
+convex or concave lens obliquely at its optical 
+centre, it continues to follow its path without 
+any deviation (Figure 2.3).
+Figure 2.3 Rays passing through the 
+optical centre
+Rule-2: When rays parallel to the principal axis 
+strikes a convex or concave lens, the refracted 
+rays are converged to (convex lens) or appear 
+to diverge from (concave lens) the principal 
+focus (Figure 2.4).
+Figure 2.4 Rays passing parallel to the optic 
+axis
+Rule-3: When a ray passing through (convex 
+lens) or directed towards (concave lens) the 
+principal focus strikes a convex or concave 
+lens, the refracted ray will be parallel to the 
+principal axis (Figure 2.5).
+Figure 2.5 Rays passing through or directed 
+towards the principal focus
+ 2.7   REFRACTION THROUGH A 
+CONVEX LENS
+Let 
+us 
+discuss 
+the 
+formation of images by 
+a convex lens when the 
+object is placed at various 
+positions.
+Object at infi nity
+When an object is placed at infi nity, a real 
+image is formed at the principal focus. Th e size 
+of the image is much smaller than that of the 
+object (Figure 2.6).
+Figure 2.6 Object at infi nity
+Object placed beyond C (>2F)
+When an object is placed behind the 
+center of curvature(beyond C), a real and 
+inverted image is formed between the center 
+of curvature and the principal focus. Th e size 
+of the image is the same as that of the object 
+(Figure 2.7).
+Figure 2.7 Object placed beyond C (>2F)
+ Object placed at C
+When an object is placed at the center of 
+curvature, a real and inverted image is formed 
+at the other center of curvature. Th e size of 
+the image is the same as that of the object 
+(Figure 2.8).
+10th_Science_Unit-2.indd   20
+21-02-2019   18:34:37
+
+21
+Optics
+Figure.2.8 Object placed at C
+ Object placed between F and C
+When an object is placed in between 
+the center of curvature and principal focus, a 
+real and inverted image is formed behind the 
+center of curvature. The size of the image is 
+bigger than that of the object (Figure 2.9).
+Figure 2.9 Object placed between F and C
+ Object placed at the principal 
+focus F
+When an object is placed at the focus, 
+a real image is formed at infinity. The size 
+of the image is much larger than that of the 
+object (Figure 2.10).
+Figure 2.10 Object placed at the principal 
+focus F
+2F1
+2F2
+F2
+F1
+C1
+C2
+N
+M
+A
+B
+O
+ Object placed between the 
+principal focus F and optical 
+centre O
+When an object is placed in between 
+principal focus and optical centre, a virtual 
+image is formed. The size of the image is larger 
+than that of the object (Figure 2.11).
+Q
+O
+B
+A
+A
+F1
+F2
+A
+f
+B
+F1
+F2
+Figure 2.11 Object placed between the 
+principal focus F and optical centre O
+ 2.8   APPLICATIONS OF 
+CONVEX LENSES
+1. Convex lenses are used as camera lenses
+2. They are used as magnifying lenses
+3. They are used in making microscope,
+telescope and slide projectors
+4. They are used to correct the defect of vision
+called hypermetropia
+ 2.9   REFRACTION THROUGH A 
+CONCAVE LENS
+Let us discuss the formation of images by 
+a concave lens when the object is placed at two 
+possible positions.
+Object at Infinity
+When an object is placed at infinity, a 
+virtual image is formed at the focus. The size of 
+the image is much smaller than that of the object 
+(Figure 2.12).
+2F1
+F1
+O
+Figure 2.12 Concave lens-Object at infinity
+10th_Science_Unit-2.indd   21
+21-02-2019   18:34:37
+
+22
+10th Standard Science
+Object anywhere on the principal 
+axis at a finite distance
+When an object is placed at a finite distance 
+from the lens, a virtual image is formed between 
+optical center and focus of the concave lens. 
+The size of the image is smaller than that of the 
+object (Figure 2.13).
+2F1
+F1
+O
+B
+A
+B1
+A1
+N
+M
+Figure 2.13 Concave lens-Object at a finite 
+distance
+But, as the distance between the object 
+and the lens is decreased, the distance 
+between the image and the lens also keeps 
+decreasing. Further, the size of the image 
+formed increases as the distance between the 
+object and the lens is decreased. This is shown 
+in (figure 2.14).
+2F1
+2F2
+F1
+F2
+1       2       3      4       5
+12345
+Figure 2.14 Concave lens-Variation in 
+position and size of image with object distance
+ 2.10   APPLICATIONS OF 
+CONCAVE LENSES
+1. Concave lenses are used as eye lens of
+‘Galilean Telescope’
+2. They are used in wide angle spy hole in
+doors.
+3. They are are used to correct the defect of
+vision called ‘myopia’
+ 2.11  LENS FORMULA
+Like spherical mirrors, we have lens 
+formula for spherical lenses. The lens 
+formula gives the relationship among 
+distance of the object (u), distance of the 
+image (v) and the focal length (f) of the 
+lens. It is expressed as
+ 1 
+ f
+ =  1 
+ v
+ −  1 
+ u
+ . . . . . . . . . . . . . 2.2
+It is applicable to both convex and 
+concave lenses. We need to give an at most 
+care while solving numerical problems 
+related to lenses in taking proper signs of 
+different quantities.
+2.12  SIGN CONVENTION
+Cartesian sign conventions are used for 
+measuring the various distances in the ray 
+diagrams of spherical lenses. According to 
+cartesian sign convention,
+1. The object is always placed on the left side
+of the lens.
+2. All the distances are measured from the
+optical centre of the lens.
+3. The distances measured in the same
+direction as that of incident light are taken
+as positive.
+4. The distances measured against the direction
+of incident light are taken as negative.
+5. The distances measured upward and
+perpendicular to the principal axis is taken
+as positive.
+6. The distances measured downward and
+perpendicular to the principal axis is taken
+as negative.
+2.13   MAGNIFICATION OF A 
+LENS
+Like 
+spherical 
+mirrors, 
+we 
+have 
+magnification for spherical lenses. Spherical 
+lenses produce magnification and it is defined 
+as the ratio of the height of the image to the 
+10th_Science_Unit-2.indd   22
+21-02-2019   18:34:37
+
+23
+Optics
+height of an object. Magnification is denoted 
+by the letter ‘m’. If height of the object is h and 
+height of the image is h´, the magnification 
+produced by lens is,
+m =  height of the image
+ height of the object  
+=  h'
+ h 
+    …… (2.3)
+Also it is related to the distance of the object 
+(u) and the distance of the image (v) as follows:
+m =  Distance of the image 
+ Distance of the object  
+ =  v 
+ u 
+  …… (2.4)
+If the magnification is greater than 1, then 
+we get an enlarged image. On the other hand, 
+if the magnification is less than 1, then we get a 
+diminished image. 
+ 2.14   LENS MAKER’S 
+FORMULA
+All lenses are made up of transparent 
+materials. Any optically transparent material 
+will have a refractive index. The lens formula 
+relates the focal length of a lens with the distance 
+of object and image. For a maker of any lens, 
+knowledge of radii of curvature of the lens is 
+required. This clearly indicates the need for an 
+equation relating the radii of curvature of the 
+lens, the refractive index of the given material of 
+the lens and the required focal length of the lens. 
+The lens maker’s formula is one such equation. 
+It is given as
+ 1 
+ f = (µ − 1)  1 
+ R1
+− 1 
+ R2
+ . . . . . . . . .(2.5)
+where µ is the refractive index of the 
+material of the lens; R1 and R2 are the radii of 
+curvature of the two faces of the lens; f is the 
+focal length of the lens.
+ 2.15  POWER OF A LENS
+When a ray of light falls on a lens, the 
+ability to converge or diverge these light rays 
+depends on the focal length of the lens. This 
+ability of a lens to converge (convex lens) or 
+diverge (concave lens) is called as its power. 
+Hence, the power of a lens can be defined as the 
+degree of convergence or divergence of light 
+rays. Power of a lens is numerically defined as 
+the reciprocal of its focal length.
+P =  1
+ f
+ . . . . . . . . . . . . . . .(2.6)
+The SI unit of power of a lens is dioptre. It 
+is represented by the symbol D. If focal length 
+is expressed in ‘m’, then the power of lens is 
+expressed in ‘D’. Thus 1D is the power of a lens, 
+whose focal length is 1metre. 1D = 1m-1.
+By convention, the power of a convex lens 
+is taken as positive whereas the power of a 
+concave lens is taken, as negative. 
+More to Know
+The lens formula  and lens maker’s formula 
+are applicable to only thin lenses. In the case 
+of thick lenses, these formulae with little 
+modifications are used.
+Table 2.1 Differences between a Convex Lens and a Concave Lens
+S. No
+Convex Lens
+Concave Lens
+1
+A convex lens is thicker in the middle than 
+at edges.
+A concave lens is thinner in the middle than 
+at edges.
+2
+It is a converging lens.
+It is a diverging lens.
+3
+It produces mostly real images.
+It produces virtual images.
+4
+It is used to treat hypermeteropia.
+It is used to treat myopia.
+10th_Science_Unit-2.indd   23
+21-02-2019   18:34:37
+
+24
+10th Standard Science
+ 2.16  HUMAN EYE
+The human eyes are most valuable and 
+sensitive organs responsible for vision. They are 
+the gateway to the wonderful world. 
+Structure of the eye
+The eye ball is approximately spherical 
+in shape with a diameter of about 2.3 cm. It 
+consists of a tough membrane called sclera, 
+which protects the internal parts of the eye.
+Important parts of human eye are
+Cornea: This is the thin and transparent layer 
+on the front surface of the eyeball as shown in 
+figure 2.15. It is the main refracting surface. 
+When light enters through the cornea, it 
+refracts or bends the light on to the lens.
+Iris: It is the coloured part of the eye. It may be 
+blue, brown or green in colour. Every person 
+has a unique colour, pattern and texture. Iris 
+controls amount of light entering into the 
+pupil like camera aperture.
+Pupil: It is the centre part of the Iris. It is the 
+pathway for the light to retina.
+Retina: This is the back surface of the eye. It is 
+the most sensitive part of human eye, on which 
+real and inverted image of objects is formed. 
+Ciliary muscles – Eye lens is fixed between 
+the ciliary muscles. It helps to change the focal 
+length of the eye lens according to the position 
+of the object.
+Eye Lens – It is the important part of human 
+eye. It is convex in nature.
+Sclera
+Choroid
+Lens
+Cornea
+Retina
+Ciliary body
+Iris
+Pupil
+Fovea centralis
+Optic disc
+Optic nerve
+Vitreous body
+Suspensory ligament
+Aqueous body
+Figure 2.15 Human eye
+Working of the eye
+The transparent layer cornea bends the 
+light rays through pupil located at the centre 
+part of the Iris. The adjusted light passes 
+through the eye lens. Eye lens is convex in 
+nature. So, the light rays from the objects 
+are converged and a real and inverted image 
+is formed on retina.  Then, retina passes the 
+received real and inverted image to the brain 
+through optical nerves. Finally, the brain 
+senses it as erect image.
+Power of Accommodation
+The ability of the eye lens to focus nearby 
+as well as the distant objects is called power of 
+accommodation of the eye. This is achieved by 
+changing the focal length of the eye lens with 
+the help of ciliary muscles. 
+Eye lens is made of a flexible, jelly-like 
+material. By relaxing and contracting the ciliary 
+muscle, the curvature and hence the focal 
+length of the eye lens can be altered. When we 
+see distant objects, the ciliary muscle relaxes 
+and makes the eye lens thinner. This increases 
+the focal length of the eye lens. Hence, the 
+distant object can be clearly seen. On the other 
+hand, when we look at a closer object, the 
+focal length of the eye lens is decreased by the 
+contraction of ciliary muscle. Thus, the image 
+of the closer object is clearly formed on the 
+retina. 
+Persistence of vision
+If 
+the 
+time 
+interval 
+between 
+two 
+consecutive light pulses is less than 0.1 second, 
+human eye cannot distinguish them separately. 
+It is called persistence of vision.
+The far point and near point of 
+the human eye
+The minimum distance required to see the 
+objects distinctly without strain is called least 
+distance of distinct vision. It is called as near 
+point of eye. It is 25 cm for normal human eye.
+10th_Science_Unit-2.indd   24
+21-02-2019   18:34:38
+
+25
+Optics
+Th e maximum distance up to which the 
+eye can see objects clearly is called as far point 
+of the eye. It is infi nity for normal eye.
+ 2.17  DEFECTS IN EYE
+A normal human eye can clearly see all 
+the objects placed between 25cm and infi nity. 
+But, for some people, the eye loses its power 
+of accommodation. Th is could happen due to 
+many reasons including ageing. Hence, their 
+vision becomes defective. Let us discuss some 
+of the common defects of human eye. 
+Myopia
+Myopia, also known as short sightedness, 
+occurs due to the lengthening of eye ball. With 
+this defect, nearby objects can be seen clearly 
+but distant objects cannot be seen clearly. Th e 
+focal length of eye lens is reduced or the distance 
+between eye lens and retina increases. Hence, 
+the far point will not be infi nity for such eyes 
+and the far point has come closer. Due to this, 
+the image of distant objects are formed before 
+the retina (Figure 2.16-a). Th is defect can be 
+corrected using a concave lens (Figure 2.16-b). 
+Th e focal length of the concave lens to be used 
+is computed as follows: 
+Figure 2.16  (a) Vision with myopia 
+b) Corrected vision using a concave lens
+(a) Myopia
+(b) Myopia corrected eye
+Let a person with myopia eye can see up
+to a distance x. Suppose that he wants to see 
+all objects farther than this distance, i.e., up to 
+infi nity. Th en the focal length of the required 
+concave lens is f = –x. If the person can see 
+up to a distance x and he wants to see up to a 
+distance y, then, the focal length of the required 
+concave lens is,
+f =    xy
+ x−y  . . . . . . . . . . . . . .(2.7)
+Hypermeteropia
+Hypermeteropia, also known as long 
+sightedness, occurs due to the shortening of 
+eye ball. With this defect, distant objects can 
+be seen clearly but nearby objects cannot be 
+seen clearly. Th e focal length of eye lens is 
+increased or the distance between eye lens 
+and retina decreases. Hence, the near point 
+will not be at 25cm for such eyes and the 
+near point has moved farther. Due to this, the 
+image of nearby objects are formed behind 
+the retina (Figure 2.17-a). Th is defect can be 
+corrected using a convex lens (Figure 2.17-b). 
+Th e focal length of the convex lens to be used 
+is computed as follows: 
+Figure 2.17  (a) Vision with hypermeteropia  
+(b) Corrected vision using a convex lens
+Let a person with hypermeteropia eye can 
+see object beyond a distance d. Suppose that he 
+wants to see all objects closer than this distance 
+up to a distance D. Th en, the focal length of the 
+required convex lens is
+f =    dD  
+ d−D 
+ . . . . . . . . . . . . . .(2.8)
+Presbyopia
+Due to ageing, ciliary muscles become 
+weak and the eye-lens become rigid (infl exible) 
+andso the eye loses its power of accommodation.
+Because of this, an aged person cannot see 
+the nearby objects clearly. So, it is also called as 
+‘old age hypermetropia’.
+10th_Science_Unit-2.indd   25
+21-02-2019   18:34:38
+
+26
+10th Standard Science
+Some persons may have both the defects 
+of vision - myopia as well as hypermetropia. 
+This can be corrected by ‘bifocal lenses’. In 
+which, upper part consists of concave lens (to 
+correct myopia) used for distant vision and the 
+lower part consists of convex lens (to correct 
+hypermetropia) used for reading purposes.
+Astigmatism
+In this defect, eye cannot see parallel and 
+horizontal lines clearly. It may be inherited or 
+acquired. It is due to the imperfect structure of 
+eye lens because of the development of cataract 
+on the lens, ulceration of cornea, injury to the 
+refracting surfaces, etc. Astigmatism can be 
+corrected by using cylindrical lenses (Torrid 
+lenses).
+ 2.18  MICROSCOPE
+This is an optical instrument, which helps 
+us to see tiny (very small) objects. It is classified 
+as 
+1. Simple microscope
+2. Compound microscope
+Simple Microscope
+Simple microscope has a convex lens of 
+short focal length. It is held near the eye to get 
+enlarged image of small objects.
+Let an object (AB) is placed at a point 
+within the principal focus (u < f) of the convex 
+lens and the observer’s eye is placed just behind 
+the lens. As per this position the convex lens 
+produces an erect, virtual and enlarged image 
+(A'B'). The image formed is in the same side of 
+the object and the distance equal to the least 
+distance of distinct vision (D) (For normal 
+human eye D = 25 cm).
+Uses of Simple microscope
+Simple microscopes are used 
+a) by watch repairers and jewellers.
+b) to read small letters clearly.
+c) to observe parts of flower, insects etc.
+d) to observe finger prints in the field of
+forensic science.
+Compound microscope
+Compound microscope is also used to 
+see the tiny objects. It has better magnification 
+power than simple microscope.
+Magnification power of microscopes 
+can be increased by decreasing the focal 
+length of the lens used. Due to constructional 
+limitations, the focal length of the lens cannot 
+be decreased beyond certain limit. This 
+problem can be solved by using two separate 
+biconvex lenses. 
+Construction
+A compound microscope consists of two 
+convex lenses. The lens with the shorter focal 
+length is placed near the object, and is called 
+as ‘objective lens’ or ‘objective piece’. The lens 
+with larger focal length and larger aperture 
+placed near the observer’s eye is called as ‘eye 
+lens’ or ‘eye piece’.  Both the lenses are fixed in 
+a narrow tube with adjustable provision.
+Working
+The object (AB) is placed  at a distance 
+slightly greater than the focal length of 
+objective lens (u > fo). A real, inverted and 
+magnified image (A'B') is formed at the other 
+O
+B′
+B′′
+A′
+F
+A
+B
+Figure 2.18 Image formation in simple 
+microscope
+10th_Science_Unit-2.indd   26
+21-02-2019   18:34:38
+
+27
+Optics
+side of the objective lens. This image behaves 
+as the object for the eye lens. The position of 
+the eye lens is adjusted in such a way, that the 
+image (A'B') falls within the principal focus of 
+the eye piece.  This eye piece forms a virtual, 
+enlarged and erect image (A" B") on the same 
+side of the object
+Compound microscope has 50 to 200 
+times more magnification power than simple 
+microscope
+Travelling Microscope
+A travelling microscope is one of the best 
+instrument for measuring very small length 
+with high degree of accuracy at the order of 
+0.01mm.  It works based on the principle of 
+vernier. Its least count is 0.01 mm.
+ 2.19  TELESCOPE
+Have you seen the recent lunar eclipse? 
+With our naked eye we can’t visualize the 
+phenomena distinctly. Then, how can we see 
+the distant object in clearer manner? It is 
+possible with telescope.
+Telescope is an optical instrument to see 
+the distant objects. The first telescope was 
+invented by Johann Lippershey in 1608. Galileo 
+made a telescope to observe distant stars. He 
+got the idea, from a spectacle maker who one 
+day observed that the distant weather cock 
+appeared magnified through his lens system 
+fitted in his shop. Galileo observed the satellites 
+of Jupiter and the rings of Saturn through 
+his telescope. Kepler invented Telescope in 
+1611 which was fundamentally similar to the 
+astronomical telescope. 
+Types of Telescope
+According to optical property, it is 
+classified into two groups: 
+i) refracting telescope ii) reflecting telescope
+In refracting telescope lenses are used. 
+Galilean 
+telescope, 
+Keplerian 
+telescope, 
+Achromatic refractors, are some refracting 
+telescopes.
+In reflecting telescope parabolic mirrors 
+are used Gregorian, Newtonian, Cassegrain 
+telescope are some Reflecting telescopes
+According to the things which are 
+observed, 
+Astronomical 
+Telescope 
+and 
+Terrestrial Telescopes are the two major types 
+of telescope.
+Astronomical Telescope
+An astronomical telescope is used to view 
+heavenly bodies like stars, planets galaxies and 
+satellites.
+Terrestrial Telescopes
+The image in an astronomical telescope 
+is inverted. So, it is not suitable for viewing 
+objects on the surface of the Earth. Therefore, 
+a terrestrial telescope is used. It provides an 
+erect image. The major difference between 
+astronomical and terrestrial telescope is 
+erecting the final image with respect to the 
+object.
+Advantages of Telescopes
+•
+Elaborate view of the Galaxies, Planets, stars
+and other heavenly bodies is possible.
+•
+Camera can be attached for taking
+photograph for the celestial objects.
+•
+Telescope can be viewed even with the low
+intensity of light.
+Disadvantages
+•
+Frequent maintenances needed.
+•
+It is not easily portable one.
+Figure 2.19 Image formation in compound 
+microscope
+10th_Science_Unit-2.indd   27
+21-02-2019   18:34:38
+
+28
+10th Standard Science
+Points to Remember
+
+ Light is a form of energy which travels
+along a straight line
+
+The deviation in the path of light ray is
+called refraction.
+
+The ratio of speed of light in vacuum to
+the speed of light in a medium is defined
+as refractive index ‘µ’ of that medium.
+
+Lens formula
+1
+f = 1
+ν  – 1
+ u
+
+Magnification (m) = h'
+h = ν
+ u
+
+Power of lens. P = 1
+f
+
+The ability of the eye to focus nearby as
+well as the distant objects is called power
+of accommodation of the eye.
+
+A microscope is an optical instrument
+which helps us to see the objects which are
+very small in dimension.
+
+Telescope is an optical instrument used to
+see the distant objects clearly.
+SOLVED PROBLEMS
+Problem 1
+Light rays travel from vacuum into a 
+glass whose refractive index is 1.5. If the angle 
+of incidence is 30°, calculate the angle of 
+refraction inside the glass.
+Solution:
+accorting to Snell’s law, 
+2
+sin i
+sin r
+µ1 sin i = µ2 sin r
+Here µ1 = 1.0, µ2 = 1.5, i = 30° 
+(1.0) sin 30° = 1.5 sin r 
+1
+2—
+1
+3—
+= 1.5 sin r
+sin r = 1
+2×1.5
+— =
+= (0.333)
+r = sin–1 (0.333) 
+1×
+r = 19.45°
+Problem-2
+A beam of light passing through a diverging 
+lens of focal length 0.3m appear to be focused 
+at a distance 0.2m behind the lens. Find the 
+position of the object.
+Solution:
+f = −0.3 m, v = −0.2 m
+ 1 
+ f
+ =  1
+ v
+−  1 
+ u
+ 1 
+ u
+ =  1
+ v
+−  1
+ f
+ 1 
+ u
+ =    1 
+ −0.2
+−
+1
+ −0.3
+ =  −10
+ 6
+u =  −6
+ 10
+ = −0.6 m
+Problem-3
+A person with myopia can see objects placed at 
+a distance of 4m. If he wants to see objects at a 
+distance of 20m, what should be the focal length 
+and power of the concave lens he must wear?
+Solution:
+Given that x = 4m and y = 20m.
+Focal length of the correction lens is 
+f =    xy
+ x−y 
+(Refer eqn.2.7)
+f =  4 × 20
+ 4 − 20 =   80 
+ −16 = −5 m
+Power of the correction lens 
+=  1 
+ f  = −  1 
+ 5 = −0.2 D
+Problem-4
+For a person with hypermeteropia, the 
+near point has moved to 1.5m. Calculate the 
+focal length of the correction lens in order to 
+make his eyes normal.
+Solution:
+Given that, d = 1.5m; D = 25cm = 0.25m (For 
+a normal eye).
+From equation (2.8), the focal length of the 
+correction lens is 
+f =  d × D
+ d − D =  1.5 × 0.25
+1.5 − 0.25
+=  0.375
+ 1.25
+ = 0.3 m
+10th_Science_Unit-2.indd   28
+21-02-2019   18:34:38
+
+29
+Optics
+I. Choose the correct answer
+1.  The refractive index of four substances A, B,
+C and D are 1.31, 1.43, 1.33, 2.4 respectively.
+The speed of light is maximum in
+a) A
+b) B
+c) C
+d) D
+2.  Where should an object be placed so that
+a real and inverted image of same size is
+obtained by a convex lens
+a) f
+b) 2f
+c) infinity
+d) between f and 2f
+3.  A small bulb is placed at the principal focus
+of a convex lens. When the bulb is switched
+on, the lens will produce
+a) a convergent beam of light
+b) a divergent beam of light
+c) a parallel beam of light
+d) a coloured beam of light
+4. Magnification of a convex lens is
+a) Positive
+b) negative
+c) either positive or negative  d) zero
+5.  A convex lens forms a real, diminished point
+sized image at focus. Then the position of the
+object is at
+a) focus
+b) infinity
+c) at 2f
+d) between f and 2f
+6.  Power of a lens is –4D, then  its focal length is
+a) 4m
+b) –40m
+c) –0.25 m
+d) –2.5 m
+7.  In a myopic eye, the image of the object is
+formed
+a) behind the retina    b) on the retina
+c) in front of the retina   d) on the blind spot
+8.  The eye defect ‘presbyopia’ can be corrected
+by
+a) convex lens
+b) concave lens
+c) convex mirror
+d) Bi focal lenses
+ TEXTBOOK EVALUATION 
+9.  Which of the following lens would you prefer
+to use while reading small letters found in a
+dictionary?
+a)  A convex lens of focal length 5 cm
+b)  A concave lens of focal length 5 cm
+c) A convex lens of focal length 10 cm
+d) A concave lens of focal length 10 cm
+10.  If VB, VG, VR be the velocity of blue, green
+and red light respectively in a glass prism,
+then which of the following statement gives
+the correct relation?
+a) VB  = VG = VR
+b) VB  > VG >VR
+c) VB < VG < VR
+d) VB < VG > VR
+II. Fill in the blanks:
+1. The path of the light is called as
+2.  The refractive index of a transparent
+medium is always greater than
+3.  If the energy of incident beam and the
+scattered beam are same, then the scattering 
+of light  is called as 
+ scattering.
+4.  According to Rayleigh’s scattering law, the
+amount of scattering of light is inversely
+proportional to the fourth power of its
+5.  Amount of light entering into the eye is
+controlled by
+III. True or False. If false correct it.
+1.  Velocity of light is greater in denser medium 
+than in rarer medium
+2.  The power of lens depends on the focal
+length of the lens
+3.
+ Increase in the converging power of eye
+lens cause ‘hypermetropia’
+4.   The convex lens always gives small virtual
+image.
+10th_Science_Unit-2.indd   29
+21-02-2019   18:34:39
+
+30
+10th Standard Science
+9. Why does the sky appear in blue colour?
+10. Why are traffic signals red in colour?
+VII. Give the answer in detail
+1. List any five properties of light
+2. Explain the rules for obtaining images
+formed by a convex lens with the help of ray
+diagram.
+3. Differentiate the eye defects: Myopia and
+Hypermetropia
+4. Explain the construction and working of a
+‘Compound Microscope’.
+VIII. Numerical Problems:
+1. An object is placed at a distance 20cm from
+a convex lens of focal length 10cm. Find the
+image distance and nature of the image.
+2. An object of height 3cm is placed at 10cm
+from a concave lens of focal length 15cm.
+Find the size of the image.
+IX. Higher order thinking (HOT) questions:
+1. While 
+doing 
+an 
+experiment 
+for 
+the
+determination of focal length of a convex
+lens, Raja Suddenly dropped the lens. It got
+broken into two halves along the axis. If he
+continues his experiment with the same lens,
+(a) can he get the image? (b) Is there any
+change in the focal length?
+2. The eyes of the nocturnal birds like owl are
+having a large cornea and a large pupil. How
+does it help them?
+REFERENCE BOOKS
+1. Fundamentals of optics by D.R. Khanna and
+H.R. Gulati, R. Chand & Co.
+2. Principles of Physics – Halliday, Resnick &
+Walker, Wiley Publications, New Delhi.
+INTERNET RESOURCES
+1. www.physicsabout.com
+2. www.khanacademy.org
+IV. Match the following:
+Column - I
+Column - II
+1
+Retina
+a
+Path way of light
+2
+Pupil
+b
+Far point  comes 
+closer
+3
+Ciliary muscles
+c
+near point moves 
+away
+4
+Myopia
+d
+Screen of the eye
+5
+Hypermetropia
+f
+Power of accom-
+modation 
+V. Assertion and reasoning type
+Mark the correct choice as
+a)  If both assertion and reason are true and
+reason is the correct explanation of assertion.
+b)  If both assertion and reason are true but
+reason is not the correct explanation of
+assertion.
+c) Assertion is true but reason is false.
+d) Assertion is false but reason is true.
+1. Assertion: If the refractive index of the
+medium is high (denser medium) the velocity 
+of the light in that medium will be small
+Reason: Refractive index of the medium is
+inversely proportional to the velocity of the
+light
+2. Assertion: Myopia is due to the increase in
+the converging power of eye lens.
+Reason: Myopia can be corrected with the
+help of concave lens.
+VI. Answer Briefly
+1. What is refractive index?
+2. State Snell’s law.
+3. Draw a ray diagram to show the image
+formed by a convex lens when the object is
+placed between F and 2F.
+4. Define dispersion of light
+5. State Rayleigh’s law of scattering
+6. Differentiate convex lens and concave lens.
+7. What is power of accommodation of eye?
+8. What are the causes of ‘Myopia’?
+10th_Science_Unit-2.indd   30
+21-02-2019   18:34:39
+
+31
+Optics
+Concept Map 
+Light
+Human eye
+Structure
+Defects
+Simple
+Compound
+Terrestrial
+Astronomical
+Myopia
+Hypermeteropia
+Presbyopia
+Microscope
+Telescope
+Refraction
+Law of
+refraction
+Rayleigh
+Scattering
+Mie
+Scattering
+Tyndall
+Scattering
+Raman
+Scattering
+Dispersion
+Scattering of light
+Optical Instruments
+Cells alive
+URL: https://phet.colorado.edu/en/simulation/legacy/geometric-optics 
+ICT CORNER
+Formation of different 
+types of images by a 
+convex lens
+•
+Open the browser and type ‘phet.colorado.edu/en/simulation/legacy/geometric-optics’ in the address
+bar.
+•
+Take the pencil and raise it so that the eraser is sitting on the principal axis.  Click on the “principal
+rays” button.
+•
+Place the object at diff erent positions (infi nity, beyond 2F, at 2F, between F and 2F, at F, between F and
+optic centre) from a convex lens and observe diff erent types of images. Explain the result.
+•
+Will the rays ever form an image?  Click on “virtual image” to check your answer.
+*Pictures are indicative only
+Steps
+Steps
+In this activity you will be able to understand the images formed by convex lenses.
+Step1
+Step2
+Step3
+Step4
+10th_Science_Unit-2.indd   31
+21-02-2019   18:34:39
+
+
+
+--- Tamilnadu-Board-Class-10-Science-Textbook-Chapter-3 ---
+
+32
+INTRODUCTION 
+Sun is the primary source of thermal 
+energy for all living organisms. Thermal 
+energy is the cause and temperature is the 
+effect. All living organisms need a particular 
+temperature for their survival. In the kitchen, 
+a container with a steel bottom is placed on 
+the induction stove. Do you know why? All 
+of us have a common man’s understanding of 
+thermal energy and temperature. But, in this 
+chapter, you shall learn about thermal energy 
+and temperature in a scientific manner. We 
+shall also discuss about how thermal energy 
+is transferred and the effects of thermal 
+energy.
+ 3.1   TEMPERATURE
+Temperature is defined as the degree 
+of hotness of a body. The temperature is 
+higher for a hotter body than for a colder 
+body. It is also be defined as the property 
+which determines whether a body is in 
+equilibrium or not with the surroundings.  
+(or average kinetic enegy of the molecules). 
+Further, temperature is the property, which 
+determines the direction of flow of heat. It is 
+a scalar quantity. The SI unit of temperature 
+is kelvin (K). There are other commonly 
+used units of temperature such as degree 
+celsius (°C) and degree fahrenheit (°F).
+3.1.1  Absolute scale (kelvin scale) 
+of temperature
+The temperature measured in relation to 
+absolute zero using the kelvin scale is known 
+as absolute temperature. It is also known as 
+the thermodynamic temperature. Each unit 
+of the thermodynamic scale of temperature is 
+defined as the fraction of 1/273.16th part of the 
+thermodynamic temperature of the triple point 
+of water. A temperature difference of 1°C is equal 
+to that of 1K. Zero Kelvin is the absolute scale 
+of tempeture  of the body.
+3
+THERMAL PHYSICS
+Learning Objectives
+At the end of this lesson, students will be able to 
+ Understand the concept of heat and temperature
+ Know the absolute scale of temperature
+ Understand the thermal energy and the thermal equilibrium
+ Classification of expansion of substances
+ Know the fundamental laws of gases
+ Distinguish between real gas and ideal gas
+ Derive the ideal gas equation
+ Solve the numerical problems
+10th_Science_Unit-3.indd   32
+21-02-2019   18:35:34
+
+33
+Thermal Physics
+The relation between the different types 
+of scale of temperature:
+Celsius and Kelvin: K = C + 273,
+Fahrenheit and Kelvin: [K] = (F + 460) ×  5
+ 9
+  0 K = –273°C.
+3.1.2  Thermal equilibrium
+Two or more physical systems or bodies are 
+said to be in thermal equilibrium if there is no 
+net flow of thermal energy between the systems. 
+Heat energy always flows from one body to 
+the other due to a temperature difference 
+between them. Thus, you can define thermal 
+equilibrium in another way. If two bodies are 
+said to be in thermal equilibrium, then, they 
+will be at the same temperature. What will 
+happen if two bodies at different temperatures 
+are brought in contact with one other? There 
+will be a transfer of heat energy from the 
+hot body to the cold body until a thermal 
+equilibrium is established between them. This 
+is depicted in Figure 3.1.
+Figure 3.1 Establishing thermal equilibrium
+When a cold body is placed in contact with 
+a hot body, some thermal energy is transferred 
+from the hot body to the cold body. As a result, 
+there is some rise in the temperature of the cold 
+body and decrease in the temperature of the 
+hot body. This process will continue until these 
+two bodies attain the same temperature.
+ 3.2  THERMAL ENERGY
+If you leave a cup of hot milk on a table for 
+some time, what happens? The hotness of the 
+milk decreases after some time. Similarly, if you 
+keep a bottle of cold water on a table, the water 
+becomes warmer after some time. What do you 
+infer from these observations? In the case of hot 
+milk, there is a flow of energy from the cup of 
+milk to the environment. In the second case, 
+the energy is transferred from the environment 
+to the water bottle. This energy is termed as 
+“thermal energy”. 
+When a hot object is in contact with 
+another cold object, a form of energy flows from 
+the hot object to the cold object, which is known 
+as thermal energy. Thus, thermal energy is a 
+form of energy which is transferred between 
+any two bodies due to the difference in their 
+temperatures. Thermal energy is also known as 
+'heat energy' or simply 'heat'.
+Heat energy is the agent, which produces 
+the sensation of warmth and makes bodies hot. 
+The process in which heat energy flows from a 
+body at a higher temperature to another object 
+at lower temperature is known as heating. This 
+process of transmission of heat may be done 
+in any of the ways like conduction, convection 
+or radiation. Heat is a scalar quantity. The SI 
+unit of heat energy absorbed or evolved is 
+joule (J) . 
+During the process of transferring heat 
+energy, the body at lower temperature is heated 
+while the body at higher temperature is cooled. 
+Thus, sometimes, this process of transfer of 
+heat energy is termed as 'cooling'. But, in 
+most of the cases the term 'heating' is used 
+instead of 'cooling'. When the thermal energy 
+is transferred from one body to another, this 
+results in the rise or lowering of the temperature 
+of either of the bodies. 
+3.2.1  Characteristic features 
+of heat energy transfer
+1. Heat always flows from a system at
+higher temperature to a system at lower
+temperature.
+2. The mass of a system is not altered when it is
+heated or cooled.
+3. For any exchange of heat, the heat gained by
+the cold system is equal to heat lost by the
+hot system. Heat gained = Heat lost
+10th_Science_Unit-3.indd   33
+21-02-2019   18:35:34
+
+34
+10th Standard Science
+3.2.2  Other units of Heat energy
+Though the SI unit of heat energy is joule, 
+there are some other commonly used units. 
+Calorie: One calorie is defined as the amount of 
+heat energy required to rise the temperature of 1 
+gram of water through 1°C.
+Kilocalorie: One kilocalorie is defined as the 
+amount of heat energy required to rise the 
+temperature of 1 kilogram of water through 1°C.
+ 3.3  EFFECT OF HEAT ENERGY
+When a certain amount of heat energy 
+is given to a substance, it will undergo one or 
+more of the following changes:
+•
+Temperature of the substance rises.
+•
+ The substance may change its state from
+solid to liquid or from liquid to gas.
+•
+The substance will expand when heated.
+The rise in temperature is in proportion
+to the amount of heat energy supplied. It 
+also depends on the nature and mass of the 
+substance. About the rise in temperature 
+and the change of state, you have studied in 
+previous classes. In the following section, we 
+shall discuss about the expansion of substances 
+due to heat.
+3.3.1  Expansion of Substances
+When heat energy is supplied to a body, 
+there can be an increase in the dimension of 
+the object. This change in 
+the dimension due to rise 
+in temperature is called 
+thermal expansion of the 
+object. The expansion of 
+liquids (e.g. mercury) can be 
+seen when a thermometer 
+is placed in warm water. All forms of matter 
+(solid, liquid and gas) undergo expansion on 
+heating.
+a) Expansion in solids
+When a solid is heated, the atoms gain
+energy and vibrate more vigorously. This results 
+in the expansion of the solid. For a given change 
+in temperature, the extent of expansion is smaller 
+in solids than in liquids and gases. This is due to 
+the rigid nature of solids. 
+The different types of expansion of solid are 
+listed and explained below:
+1. Linear expansion
+2. Superficial expansion
+3. Cubical expansion
+1. Linear expansion:
+When a body is heated or cooled, the
+length of the body changes due to change in 
+its temperature. Then the expansion is said to 
+be linear or longitudinal expansion.
+The ratio of increase in length of the body 
+per degree rise in temperature to its unit length 
+is called as the coefficient of linear expansion. 
+The SI unit of Coefficient of Linear expansion is 
+K-1. The value of coefficient of linear expansion 
+is different for different materials.
+Figure 3.2 Linear expansion
+The equation relating the change in length 
+and the change in temperature of a body is 
+given below:
+∆L =  αL ∆T
+Lo 
+∆ L -  Change 
+in 
+length 
+(Final 
+length- 
+Original length)
+Lo - Original length
+∆T -  Change 
+in 
+temperature 
+(Final 
+temperature - Initial temperature)
+αL - Coefficient of linear expansion.
+10th_Science_Unit-3.indd   34
+21-02-2019   18:35:34
+
+35
+Thermal Physics
+2. Superficial expansion:
+If there is an increase in the area of a solid
+object due to heating, then the expansion is 
+called superficial or areal expansion.
+Superficial expansion  is determined in 
+terms of coefficient of superficial expansion. 
+The ratio of increase in area of the body per 
+degree rise in temperature to its unit area is 
+called as coefficient of superficial expansion. 
+Coefficient of superficial expansion is different 
+for different materials. The SI unit of Coefficient 
+of superficial expansion is K-1
+The equation relating to the changein area 
+and the change in temperature is given below:
+Figure 3.3 Superficial expansion
+(b)
+Aº
+A
+∆A =  αA ∆T
+Ao 
+∆A -  Change in area (Final area - Initial 
+area)
+Ao - Original area
+∆T -  Change 
+in 
+temperature 
+(Final 
+temperature - Initial temperature)
+αA - Coefficient of superficial expansion.
+3. Cubical expansion:
+If there is an increase in the volume of a
+solid body due to heating, then the expansion 
+is called cubical or volumetric expansion.
+As in the cases of linear and areal expansion, 
+cubical expansion is also expressed in terms of 
+coefficient of cubical expansion. The ratio of 
+increase in volume of the body per degree rise 
+in temperature to its unit volume is called as 
+coefficient of cubical expansion. This is also 
+measured in K
+–1.
+Figure 3.4 Cubical expansion
+The equation relating to the change in volume 
+and the change in temperature is given below:
+∆V =  αV ∆T
+Vo 
+∆V -  Change in volume(Final volume - 
+Intial volume)
+Vo - Original volume
+∆T -  Change 
+in 
+temperature 
+(Final 
+temperature - Initial temperature)
+αV - Coefficient of cubical expansion.
+Different 
+materials 
+possess 
+different 
+coefficient of cubical expansion. Table 3.1 gives 
+the coefficient of cubical expansion for some 
+common materials.
+S.No.
+Name of the 
+material
+Coefficient of cubic 
+expansion (K–1)
+1
+Aluminium
+7 × 10
+–5
+2
+Brass
+6 × 10
+–5
+3
+Glass
+2.5 × 10
+–5
+4
+Water
+20.7 × 10
+–5
+5
+Mercury
+18.2 × 10
+–5
+Table 3.1 Coefficient of cubical expansion 
+of some materials
+b) Expansion in liquids and gases
+When heated, the atoms in a liquid or gas
+gain energy and are forced further apart. The 
+extent of expansion varies from substance to 
+substance. For a given rise in temperature, a 
+liquid will have more expansion than a solid 
+and a gaseous substance has the highest 
+expansion when compared with the other two. 
+The coefficient of cubical expansion of liquid is 
+independent of temperature whereas its value 
+for gases depends on the temperature of gases.
+10th_Science_Unit-3.indd   35
+21-02-2019   18:35:34
+
+36
+10th Standard Science
+When a liquid is heated, it is done by keeping 
+the liquid in some container and supplying heat 
+energy to the liquid through the container. The 
+thermal energy supplied will be partly used 
+in expanding the container and partly used in 
+expanding the liquid. Thus, what we observe 
+may not be the actual or real expansion of the 
+liquid. Hence, for liquids, we can define real 
+expansion and apparent expansion.
+1) Real expansion
+If a liquid is heated directly without using
+any container, then the expansion that you observe 
+is termed as real expansion of the liquid. 
+Coefficient of real expansion is defined 
+as the ratio of the true rise in the volume of 
+the liquid per degree rise in temperature to its 
+unit volume. The SI unit of coefficient of real 
+expansion is K
+–1.
+2) Apparent expansion
+Heating a liquid without using a container
+is not possible. Thus, in practice, you can heat 
+any liquid by pouring it in a container. A part 
+of thermal energy is used in expanding the 
+container and a part is used in expanding the 
+liquid. Thus, what you observe is not the actual 
+or real expansion of the liquid. The expansion 
+of a liquid apparently observed without 
+considering the expansion of the container is 
+called the apparent expansion of the liquid. 
+Coefficient of apparent expansion is 
+defined as the ratio of the apparent rise in 
+the volume of the liquid per degree rise in 
+temperature to its unit volume. The SI unit of 
+coefficient of apparent expansion is K
+–1.
+3.3.2  Experiment to measure real 
+and apparent expansion 
+of liquid
+To start with, the liquid whose real and 
+apparent expansion is to be determined is 
+poured in a container up to a level. Mark this 
+level as L1. Now, heat the container and the 
+liquid using a burner as shown in the Figure 3.5. 
+Initially, the container receives the thermal 
+energy and it expands. As a result, the volume 
+of the liquid appears to have reduced. Mark this 
+reduced level of liquid as L2. 
+On further heating, the thermal energy 
+supplied to the liquid through the container 
+results in the expansion of the liquid. Hence, 
+the level of liquid rises to L3. Now, the difference 
+between the levels L1 and L3 is called as apparent 
+expansion, and the difference between the levels 
+L2 and L3 is called real expansion. The real 
+expansion is always more than that of apparent 
+expansion.
+Figure 3.5 Real and apparent expansion 
+of liquid
+Real expansion = L3 – L2
+Apparent expansion = L3 – L1
+ 3.4   FUNDAMENTAL LAWS 
+OF GASES
+The three fundamental laws which 
+connect the relation between pressure, volume 
+and temperature are as follows:
+1) Boyle’s Law
+2) Charles's law 
+3) Avogadro's law
+3.4.1 Boyle’s law:  
+When the temperature of a gas is kept 
+constant, the volume of a fixed mass of gas is 
+inversely proportional to its pressure. This is 
+shown in Figure 3.6.      
+P α 1/V
+10th_Science_Unit-3.indd   36
+21-02-2019   18:35:34
+
+37
+Thermal Physics
+Figure 3.6 Variation of volume with pressure
+In other words, for an invariable mass 
+of a perfect gas, at constant temperature, 
+the product of its pressure and volume is a 
+constant.
+(i.e)  PV = constant
+3.4.2  Charles's law 
+(The law of volume)
+Charles’s law was formulated by a French 
+scientist Jacques Charles. According to this 
+law, When the pressure of gas is kept constant, 
+the volume of a gas is directly proportional to 
+the temperature of the gas.
+V α T
+or V
+ T = constant
+3.4.3  Avogadro's law 
+Avogadro's law states 
+that at constant pressure and 
+temperature, the volume of a 
+gas is directly proportional 
+to number of atoms or 
+molecules present in it.
+i.e.      V α n
+(or)      V
+ n = constant
+Avogadro’s number (NA) is the total 
+number of atoms per mole of the substance. It 
+is equal to 6.023 × 10
+23 /mol.
+ 3.5  GASES
+Gases are classified as real gases and 
+ideal gases.
+3.5.1 Real Gases 
+If the molecules or atoms of a gases 
+interact with each other with a definite amount 
+of intermolecular or inter atomic force of 
+attraction, then the gases are said to be real 
+gases. At very high temperature or low pressure, 
+a real gases behaves as an ideal gases because 
+in this condition there is no interatomic or 
+intermolecular force of attraction.
+3.5.2 Ideal Gases
+If the atoms or molecules of a gas do not 
+interact with each other, then the gas is said to 
+be an ideal gas or a perfect gas. 
+Actually, in practice, no gas is ideal. 
+The molecules of any gas will have a certain 
+amount of interaction among them. But, these 
+interactions are weaker when the pressure 
+is low or the temperature is high because 
+the interatomic or intermolecular forces of 
+attraction are weak in ideal gas. Hence, a real 
+gas at low pressure or high temperature can be 
+termed as a perfect gas.
+Ideal gases obey Boyle’s law, Charles’s law 
+and Avogadro’s law. All these laws state the 
+relationship between various properties of a gas 
+such as pressure (P), volume (V), temperature 
+(T) and number of atoms (n). In a given state of
+the gas, all these parameters will have a definite
+set of values. When there is a change in the state
+of the gas, any one or more of these parameters
+change its value. The above said laws relate these
+changes.
+3.5.3 Ideal Gas Equation
+The ideal gas equation is an equation, 
+which relates all the properties of an ideal gas. 
+An ideal gas obeys Boyle’s law and Charles’ law 
+and Avogadro’s law. According to Boyle’s law, 
+PV = constant 
+(3.1)
+10th_Science_Unit-3.indd   37
+21-02-2019   18:35:34
+
+38
+10th Standard Science
+According to Charles’s law, 
+V/T = constant  
+(3.2)
+According to Avogadro’s law,
+V/n = constant  
+ (3.3)
+After combining equations (3.1), (3.2) 
+and (3.3), you can get the following equation.
+PV/nT = constant 
+(3.4)
+The above relation is called the combined 
+law of gases. If you consider a gas, which 
+contains µ moles of the gas, the number of 
+atoms contained will be equal to µ times the 
+Avogadro number, NA. 
+i.e.   n = µNA.
+(3.5)
+Using equation (3.5), equation (3.4) can 
+be written as
+PV/ µNAT = constant
+The value of the constant in the above 
+equation is taken to be kB, which is called as 
+Boltzmann constant (1.38 × 10–23 JK–1). Hence, 
+we have the following equation:
+PV/ µNAT = kB
+PV = µNA kB T
+Here, µNAkB = R, which is termed as 
+universal gas constant whose value is 
+8.31 J mol−1 K−1. 
+PV = RT  
+ (3.6)
+Ideal gas equation is also called as equation 
+of state because it gives the relation between 
+the state variables and it is used to describe the 
+state of any gas.
+Points to Remember
+
+ The SI unit of heat energy absorbed or
+evolved is joule (J)
+
+ Heat always flows from a system at higher
+temperature to a system at lower temperature.
+
+ Temperature is defined as the degree
+of hotness of a body. The SI unit of
+temperature is kelvin (K).
+
+ All the substances will undergo one or
+more of the following changes when
+heated:
+i)
+ Temperature of the substance rises.
+ii)
+ The substance may change state from
+solid to liquid or gas.
+iii)  The 
+substance 
+will 
+expand
+when heated.
+
+ All forms of matter (solid, liquid and gas)
+undergo expansion on heating.
+
+ For a given rise in temperature, a liquid
+will have more expansion than a solid
+and a gaseous substance has the highest
+expansion than the other two.
+
+ If a liquid is heated directly without using
+any container, then the expansion that
+you observe is termed as real expansion
+of the liquid.
+
+ The expansion of a liquid apparently
+observed 
+without 
+considering 
+the
+expansion of the container is called the
+apparent expansion of liquid.
+
+ For a given heat energy, the real expansion
+is always more than that of apparent
+expansion.
+
+ If the atoms or molecules of a gas do
+not interact with each other, then
+the gas is said to be an ideal gas or a
+perfect gas.
+
+ Ideal gas equation, also called as equation
+of state is PV = RT. Here, R is known as
+universal gas constant whose value is
+8.31 J mol
+−1K
+−1
+Solved Problems
+Example 1
+A container whose capacity is 70 ml is 
+filled with a liquid up to 50 ml. Then, the 
+liquid in the container is heated. Initially, the 
+level of the liquid falls from 50 ml to 48.5 ml. 
+Then we heat more, the level of the liquid 
+rises to 51.2 ml. Find the apparent and real 
+expansion.
+10th_Science_Unit-3.indd   38
+21-02-2019   18:35:35
+
+39
+Thermal Physics
+Data:
+Level of the liquid L1 = 50 ml
+Level of the liquid L2 = 48.5 ml
+Level of the liquid L3 = 51.2 ml
+Apparent expansion  = L3 − L1
+= 51.2 ml – 50 ml 
+= 1.2ml
+Real expansion  = L3 − L1
+= 51.2 ml – 48.5ml 
+= 2.7ml
+So, Real expansion > apparent expansion
+Example 2
+Keeping the temperature as constant, 
+a gas is compressed four times of its initial 
+pressure. The volume of gas in the container 
+changing from 20cc (V1 cc) to V2 cc. Find the 
+final volume V2.
+Data:
+Initial pressure (P1)= P
+Final Pressure (P2) = 4P
+Initial volume (V1) = 20cc = 20cm3
+Final volume (V2) = ?
+Using Boyle's Law, PV = constant
+P1V1 = P2V2
+V2 = P1
+P2
+× V1
+= P
+4P × 20cm3
+V2 = 5 cm3
+I. Choose the correct answer
+1.
+The value of universal gas constant
+a) 3.81 mol–1 K–1    b) 8.03 mol–1 K–1
+c) 1.38 mol–1 K–1     d) 8.31 mol–1 K–1
+2.
+ If a substance is heated or cooled, the
+change in mass of that substance is
+a) positive
+b) negative
+c) zero
+d) none of the above
+3.
+ If a substance is heated or cooled, the
+linear expansion occurs along the axis
+of
+a) X or –X
+b) Y or –Y
+c) both (a) and (b)  d) (a) or (b)
+4.
+ Temperature is the average ___________
+of the molecules of a substance
+a) difference in K.E and P.E
+b) sum of P.E and K.E
+c) difference in T.E and P.E
+d) difference in K.E and T.E
+ TEXTBOOK EVALUATION 
+5.
+ In the Given diagram, the possible direction 
+of heat energy transformation is
+II. Fill in the blanks:
+1.  The value of Avogadro number ________
+2.  The temperature and heat are _________
+quantities
+3.  One calorie is the amount of heat energy
+required to raise the temperature of
+_______ of water through______.
+4.  According to Boyle’s law, the shape of the
+graph between pressure and reciprocal of
+volume is ________________
+III.  State whether the following statements
+are true or false, if false explain why?
+1.  For a given heat in liquid, the apparent
+expansion is more than that of real expansion.
+10th_Science_Unit-3.indd   39
+21-02-2019   18:35:35
+
+40
+10th Standard Science
+2.  Thermal energy always flows from a system
+at higher temperature to a system at lower
+temperature.
+3.  According to Charles’s law, at constant
+pressure, the temperature is inversely
+proportional to volume.
+IV.  Match the items in column-I to the
+items in column-II
+Column-I 
+        Column-II
+1. Linear expansion 
+- (a) change in volume
+2.  Superficial expansion - (b)  hot body to cold
+body
+3. Cubical expansion 
+- (c) 1.381 X 10-23 JK-1
+4. Heat transformation - (d) change in length
+5. Boltzmann constant - (e) change in area
+V. Assertion and reason type questions
+a.
+ Both the assertion and the reason are true
+and the reason is the correct explanation
+of the assertion.
+b.
+ Both the assertion and the reason are
+true but the reason is not the correct
+explanation of the assertion.
+c.
+ Assertion is true but the reason is false.
+d.
+ Assertion is false but the reason is true.
+1.  Assertion: There is no effects on other end
+when one end of the rod is only heated.
+Reason: Heat always flows from a region of
+lower temperature to higher temperature of
+the rod.
+2.  Assertion: Gas is highly compressible than
+solid and liquid
+Reason: Interatomic or intermolecular
+distance in the gas is comparably high.
+VI. Answer in briefly
+1. Define one calorie.
+2.  Distinguish between linear, arial and
+superficial expansion.
+3. What is co-efficient of cubical expansion?
+4. State Boyle’s law
+5. State-the law of volume
+6.  Distinguish between ideal gas and real
+gas.
+7. What is co-efficient of real expansion?
+8. What is co-efficient of apparant expansion?
+VII. Numerical problems
+1.  Find the final temperature of a copper rod.
+Whose area of cross section changes from
+10 m
+2 to 11 m
+2 due to heating. The copper
+rod is initially kept at 90 K. (Coefficient of
+superficial expansion is 0.0021 /K)
+2.  Calculate 
+the 
+coefficient 
+of 
+cubical
+expansion of a zinc bar. Whose volume is
+increased 0.25 m
+3 from 0.3 m
+3 due to the
+change in its temperature of 50 K.
+VIII. Answer in detail
+1. Derive the ideal gas equation.
+2.  Explain the experiment of measuring the
+real and apparent expansion of a liquid
+with a neat diagram.
+IX. HOT question
+If you keep ice at 0°C and water at 0°C in 
+either of your hands, in which hand you will 
+feel more chillness? Why?
+ REFERENCE BOOKS
+ Thermodynamics and an introduction to
+thermo statistics by Herbert  Hallen
+ Fundamentals 
+of 
+Engineering 
+Thermodynamics by Michael Moran.
+INTERNET RESOURCE
+http://aplusphysics.com/courses/honors/
+thermo/thermal_physics.html
+10th_Science_Unit-3.indd   40
+21-02-2019   18:35:35
+
+41
+Th ermal Physics
+ICT CORNER
+Boyle’s law
+•
+Open the browser and type “physics-chemistry-interactive-fl ash-animation.com/matter_change_
+state_measurement_mass_volume/pressure_volume_boyle_mariotte_law_ideal_gas_closed_system_
+MCQ.htm”  in the address bar. Click enter to start the experiment.
+•
+Change the volume by adjusting the piston of the syringe ( between 20 ml to 80 ml) and observe how
+the pressure changes.
+•
+Tabulate observed values. You will observe when volume decreases pressure inside the syringe gets
+increased and vice versa. Th us boyle’s law ( PV = constant) verifi ed.
+Cells alive
+URL: http://www.physics-chemistry-interactive-fl ash-animation.com/matter_
+change_state_measurement_mass_volume/pressure_volume_boyle_mariotte_law_
+ideal_gas_closed_system_MCQ.htm
+Steps
+In this activity you will be able to verify pressure is proportional to reciprocal of volume 
+(Boyle’s law). 
+10th_Science_Unit-3.indd   41
+21-02-2019   18:35:35
+
